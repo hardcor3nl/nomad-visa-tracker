@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to the canonical page."
+type: dataset
+title: "Digital Nomad Visa Tracker"
+version: "2026-09-29"
+date-released: "2026-09-29"
+license: CC-BY-4.0
+url: "https://nomadterminal.com/visas/"
+abstract: "Digital-nomad and remote-worker residence schemes, one record per scheme: status, income rule, savings alternative, initial length, government fee, processing time, dependants and health-insurance rules, each with an official source link and a checked date. Amounts are stored as the source states them, in the source currency and period; nothing is converted. A blank means the official page did not state it or could not be read, not that no requirement exists. General information, not immigration advice."
+keywords:
+  - "digital nomad visa"
+  - "remote worker visa"
+  - "nomad visa requirements"
+  - "visa income requirement"
+authors:
+  - name: "Nomad Terminal editorial"
+    website: "https://nomadterminal.com/"

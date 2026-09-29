@@ -1,0 +1,3529 @@
+[
+ {
+  "id": "albania-unique-permit-digital-mobile-workers",
+  "country": "Albania",
+  "iso2": "AL",
+  "officialName": "Single (Unique) residence permit for digital mobile workers, Law No. 79/2021 On Aliens, Article 68",
+  "status": "open",
+  "statusNote": "Statute (Ministry of Interior English text of Law 79/2021) provides the permit; the e-Albania service page could not be read (404), so current operational status is not confirmed on the portal",
+  "minIncome": {
+   "amount": null,
+   "currency": null,
+   "period": null,
+   "basis": "Applicant must prove 'sufficient income to provide for himself/herself and his/her dependants'; no amount stated in the law (Art. 68(b))",
+   "source": "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Renewal terms not stated in Art. 68 (text says one-year single permit for the first time)",
+   "text": "One-year single permit for mobile workers, issued first time to an alien legally staying in Albania (Art. 68)",
+   "source": "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": "State fee is set by Council of Ministers' Decision (Art. 140); amount not read",
+   "source": "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf"
+  },
+  "processingTime": {
+   "text": "Single residence permit is issued within 4 to 12 weeks from the date of application when requirements are met (Art. 56(4))",
+   "source": "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf"
+  },
+  "whereToApply": {
+   "text": "Application filed directly by the alien who is legally staying in Albania (Art. 56(3)); the authority responsible for border and migration issues the permit (Art. 68)",
+   "source": "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "An alien holding an Albanian residence permit may request family reunification with the local border and migration authority if conditions are met (Art. 41)",
+   "source": "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Health insurance policy valid for at least one year (Art. 68(c))",
+   "source": "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf"
+  },
+  "officialSourceUrl": "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf",
+  "sources": [
+   "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Art. 68 conditions: employment/service contract with employer or client based abroad and no physical headquarters; proof of sufficient income; proof of accommodation and Albanian home address; one-year health insurance; criminal record certificate. Art. 77: issued without labour-market test. Definition of mobile digital workers in Art. 3 pt 39. Statute read from PDF text (English translation on mb.gov.al)."
+ },
+ {
+  "id": "antigua-and-barbuda-nomad-digital-residence",
+  "country": "Antigua and Barbuda",
+  "iso2": "AG",
+  "officialName": "Nomad Digital Residence (NDR) Programme",
+  "status": "closed",
+  "statusNote": "Government notice dated 2025-11-10 says programme discontinued on 2025-11-15",
+  "minIncome": {
+   "amount": null,
+   "currency": "USD",
+   "period": null,
+   "basis": "not verified (programme closed; official page 503)",
+   "source": "https://ab.gov.ag/detail_template.php?page=media%2Fnotices"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": "USD",
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": null,
+   "maxRenewalsText": null,
+   "text": "Not verified from a primary source; programme discontinued",
+   "source": "https://ab.gov.ag/detail_template.php?page=media%2Fnotices"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": "USD",
+   "text": null,
+   "source": null
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Antigua and Barbuda Department of Immigration (contact listed on notice: helpdesk@ab.gov.ag); no longer accepting NDR applications per notice",
+   "source": "https://ab.gov.ag/detail_template.php?page=media%2Fnotices"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not verified from a primary source",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "Not verified",
+   "source": null
+  },
+  "officialSourceUrl": "https://ab.gov.ag/detail_template.php?page=media%2Fnotices",
+  "sources": [
+   "https://ab.gov.ag/detail_template.php?page=media%2Fnotices",
+   "https://ab.gov.ag/pdf/Discontinuation_of_the_NDR_prg.pdf (404 on fetch)"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Closure confirmed on the official notices page (notice dated 2025-11-10, discontinued 2025-11-15). The linked PDF returned 404 on two fetches (curl and WebFetch); a search excerpt of that PDF (seen via search excerpt of official page) says the NDR programme ends on 15 November 2025. Notice text does not say what happens to existing holders or pending applications."
+ },
+ {
+  "id": "argentina-nomada-digital-transitory-residence",
+  "country": "Argentina",
+  "iso2": "AR",
+  "officialName": "Residencia transitoria como Nómada Digital",
+  "status": "open",
+  "statusNote": "Official service page live",
+  "minIncome": {
+   "amount": null,
+   "currency": "ARS",
+   "period": null,
+   "basis": "No fixed minimum; proof of remote activity via contract, endorsement or income receipts (translated)",
+   "source": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 6,
+   "maxRenewalsText": "Extendable for an equal period (translated)",
+   "text": "180 days, extendable for an equal period (translated)",
+   "source": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital"
+  },
+  "governmentFee": {
+   "amount": 32,
+   "currency": "UMSM",
+   "text": "Initial application for non-MERCOSUR nationals 32 UMSM (MERCOSUR 16 UMSM); extension 40 UMSM (MERCOSUR 20 UMSM); fee table states 1 UMSM = $1000 (table under Decree 584/2024, undated on page) (translated)",
+   "source": "https://www.argentina.gob.ar/migraciones/cuadro-tasas-migratorias"
+  },
+  "processingTime": {
+   "text": "Not stated; electronic entry authorisation (TIE 24H) notified by email (translated)",
+   "source": "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-nomadas-digitales"
+  },
+  "whereToApply": {
+   "text": "Electronic entry procedure (TIE 24H) for entry authorisation; residence application in person at Direccion Nacional de Migraciones office (CABA: email asesoramiento@migraciones.gov.ar); requires criminal record certificate from age 16 (translated)",
+   "source": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not addressed",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "Not mentioned",
+   "source": null
+  },
+  "officialSourceUrl": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+  "sources": [
+   "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+   "https://www.argentina.gob.ar/migraciones/cuadro-tasas-migratorias",
+   "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-nomadas-digitales",
+   "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-transitoria-como-nomada-digital",
+   "https://www.argentina.gob.ar/normativa/nacional/norma-364601/texto"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Legal basis Disposicion DNM 758/2022 (Art. 24 h Law 25.871) per fetched norm page; norm text and service pages state no minimum income, no dependants provision, no insurance requirement, no tax provision."
+ },
+ {
+  "id": "aruba-one-happy-workation",
+  "country": "Aruba",
+  "iso2": "AW",
+  "officialName": "One Happy Workation",
+  "status": "open",
+  "statusNote": "Tourism authority page says programme available; it is not a visa",
+  "minIncome": {
+   "amount": null,
+   "currency": "USD",
+   "period": null,
+   "basis": "No income requirement stated; must be employed or self-employed in home country",
+   "source": "https://www.aruba.com/us/one-happy-workation"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": "USD",
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 3,
+   "maxRenewalsText": "Extension allowed while in Aruba if total stays within three months",
+   "text": "1 week minimum to 90 days maximum",
+   "source": "https://www.aruba.com/us/one-happy-workation"
+  },
+  "governmentFee": {
+   "amount": 0,
+   "currency": "USD",
+   "text": "Programme has no fee; guests buy discounted accommodation packages",
+   "source": "https://www.aruba.com/us/one-happy-workation"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "No application; book with participating hotels and list 'One Happy Workation' as purpose on the online ED card",
+   "source": "https://www.aruba.com/us/one-happy-workation"
+  },
+  "taxTreatment": {
+   "text": "Not registered as an Aruba resident; income is supplied by a company in the home country, so no Aruba tax obligation is stated (page answer: 'No')",
+   "source": "https://www.aruba.com/us/one-happy-workation"
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not stated",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": false,
+   "text": "Travel insurance strongly recommended, not mandatory",
+   "source": "https://www.aruba.com/us/one-happy-workation"
+  },
+  "officialSourceUrl": "https://www.aruba.com/us/one-happy-workation",
+  "sources": [
+   "https://www.aruba.com/us/one-happy-workation"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "US nationals with valid passport only. A tourism programme within visitor-stay rules, not a permit. Visitors may not work for Aruban companies/individuals."
+ },
+ {
+  "id": "bahamas-beats",
+  "country": "Bahamas",
+  "iso2": "BS",
+  "officialName": "Bahamas Extended Access Travel Stay (BEATS)",
+  "status": "open",
+  "statusNote": "BEATS site directs to immigration portal; no closure seen",
+  "minIncome": {
+   "amount": null,
+   "currency": "USD",
+   "period": null,
+   "basis": "No income threshold in FAQ fetched",
+   "source": "https://www.bahamasbeats.com/faq"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": "USD",
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Annual renewals considered up to a maximum of three years",
+   "text": "Annual residence permit expiring 12 months from issue",
+   "source": "https://www.bahamasbeats.com/faq"
+  },
+  "governmentFee": {
+   "amount": 1025,
+   "currency": "USD",
+   "text": "US$25 application + US$1,000 permit per professional applicant; dependants US$25 + US$500 each",
+   "source": "https://www.bahamasbeats.com/faq"
+  },
+  "processingTime": {
+   "text": "Estimated five days",
+   "source": "https://www.bahamasbeats.com/faq"
+  },
+  "whereToApply": {
+   "text": "Online at portal.immigration.gov.bs",
+   "source": "https://www.bahamasbeats.com/faq"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Dependants included with separate fees",
+   "source": "https://www.bahamasbeats.com/faq"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Proof of medical insurance for applicant and dependants",
+   "source": "https://www.bahamasbeats.com/faq"
+  },
+  "officialSourceUrl": "https://www.bahamasbeats.com/",
+  "sources": [
+   "https://www.bahamasbeats.com/faq"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-28",
+  "notes": "Also covers students (US$525). Fee currency stated as USD on FAQ. Ministry press release PDF on immigration.gov.bs was unreadable."
+ },
+ {
+  "id": "barbados-welcome-stamp",
+  "country": "Barbados",
+  "iso2": "BB",
+  "officialName": "12-Month Barbados Welcome Stamp",
+  "status": "open",
+  "statusNote": "Tourism authority page invites applications",
+  "minIncome": {
+   "amount": 50000,
+   "currency": "USD",
+   "period": "year",
+   "basis": "Annual income over the 12 months of the stamp",
+   "source": "https://visitbarbados.org/barbados-welcome-stamp"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Can reapply after the year (as described)",
+   "text": "Maximum 12 months",
+   "source": "https://visitbarbados.org/barbados-welcome-stamp"
+  },
+  "governmentFee": {
+   "amount": 2000,
+   "currency": "USD",
+   "text": "USD 2,000 individual; USD 3,000 family bundle; non-refundable",
+   "source": "https://visitbarbados.org/barbados-welcome-stamp"
+  },
+  "processingTime": {
+   "text": "Typically approved within 7 business days",
+   "source": "https://visitbarbados.org/barbados-welcome-stamp"
+  },
+  "whereToApply": {
+   "text": "Online at barbadoswelcomestamp.bb/applynow",
+   "source": "https://visitbarbados.org/barbados-welcome-stamp"
+  },
+  "taxTreatment": {
+   "text": "Not liable for Barbados income tax; 17.5% VAT on purchases",
+   "source": "https://visitbarbados.org/barbados-welcome-stamp"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Family bundle; school-aged children need no separate student visa",
+   "source": "https://visitbarbados.org/barbados-welcome-stamp"
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "Not mentioned on fetched page",
+   "source": null
+  },
+  "officialSourceUrl": "https://visitbarbados.org/barbados-welcome-stamp",
+  "sources": [
+   "https://visitbarbados.org/barbados-welcome-stamp",
+   "https://barbadoswelcomestamp.bb/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-28",
+  "notes": "Remote work for non-Barbados employers/clients only. Source is Visit Barbados (state tourism agency)."
+ },
+ {
+  "id": "belize-work-where-you-vacation",
+  "country": "Belize",
+  "iso2": "BZ",
+  "officialName": "Work Where You Vacation",
+  "status": "open",
+  "statusNote": "Belize Tourism Board page (official tourism authority) states the programme is actively accepting applications via the Immigration Department; immigration.gov.bz pages checked (home, permits, visa types, long-stay) do not mention it",
+  "minIncome": {
+   "amount": 75000,
+   "currency": "USD",
+   "period": "year",
+   "basis": "Individuals; USD 100,000 for couples/families",
+   "source": "https://www.travelbelize.org/work-where-you-vacation/"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 6,
+   "maxRenewalsText": null,
+   "text": "Maximum 180 days per travelbelize.org (six months per search excerpt)",
+   "source": "https://www.travelbelize.org/work-where-you-vacation/"
+  },
+  "governmentFee": {
+   "amount": 500,
+   "currency": "BZD",
+   "text": "BZD 500 per adult, BZD 200 per child under 18",
+   "source": "https://www.travelbelize.org/work-where-you-vacation/"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Online via Immigration Department; visas@immigration.gov.bz",
+   "source": "https://www.travelbelize.org/work-where-you-vacation/"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Couples/families; children may enrol in Belize schools, student permits waived",
+   "source": "https://www.travelbelize.org/work-where-you-vacation/"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Travel insurance of at least USD 50,000 coverage",
+   "source": "https://www.travelbelize.org/work-where-you-vacation/"
+  },
+  "officialSourceUrl": "https://www.travelbelize.org/work-where-you-vacation/",
+  "sources": [
+   "https://www.travelbelize.org/work-where-you-vacation/",
+   "https://immigration.gov.bz/permits/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Tax and processing time not stated; no closure notice on the page."
+ },
+ {
+  "id": "bermuda-work-from-bermuda-one-year-certificate",
+  "country": "Bermuda",
+  "iso2": "BM",
+  "officialName": "One Year Residential Certificate (Work From Bermuda)",
+  "status": "open",
+  "statusNote": "Government online service and apply form listed",
+  "minIncome": {
+   "amount": null,
+   "currency": "BMD",
+   "period": null,
+   "basis": "Sufficient means/continuous income without gainful employment in Bermuda; no amount stated",
+   "source": "https://www.gov.bm/articles/one-1-year-residency-certificate-policy"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": null,
+   "text": "One year; renewal not specified",
+   "source": "https://www.gov.bm/articles/one-1-year-residency-certificate-policy"
+  },
+  "governmentFee": {
+   "amount": 263,
+   "currency": "$",
+   "text": "$263 (currency symbol only as stated)",
+   "source": "https://www.gov.bm/articles/one-1-year-residency-certificate-policy"
+  },
+  "processingTime": {
+   "text": "Process described as swift; no time given",
+   "source": "https://www.gov.bm/articles/one-1-year-residency-certificate-policy"
+  },
+  "whereToApply": {
+   "text": "Electronic application via forms.gov.bm",
+   "source": "https://www.gov.bm/online-services/one-year-residential-certificate"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not mentioned",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Applicant must hold valid health insurance",
+   "source": "https://www.gov.bm/articles/one-1-year-residency-certificate-policy"
+  },
+  "officialSourceUrl": "https://www.gov.bm/online-services/one-year-residential-certificate",
+  "sources": [
+   "https://www.gov.bm/articles/one-1-year-residency-certificate-policy",
+   "https://www.gov.bm/online-services/one-year-residential-certificate"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-28",
+  "notes": "Policy dated 2020; also open to non-Bermudian post-secondary students. Cannot seek employment in Bermuda."
+ },
+ {
+  "id": "brazil-vitem-xiv-digital-nomad",
+  "country": "Brazil",
+  "iso2": "BR",
+  "officialName": "Visto Temporário XIV - Nômade Digital (VITEM XIV)",
+  "status": "open",
+  "statusNote": "Open. MRE consulate pages (translated) state e-visa issuance of temporary visas for nationals exempt from visitor visas from 1 September 2026 via the Integrated Consular System (SCI); only search excerpts of gov.br/mre pages could be read (captcha/rate-limit on direct fetch); re-verify in a browser.",
+  "minIncome": {
+   "amount": 1500,
+   "currency": "USD",
+   "period": "month",
+   "basis": "Foreign-source monthly means, as stated (translated)",
+   "source": "https://www.gov.br/mre/pt-br/consulado-lisboa/servicos-consulares/vistos-destinados-a-estrangeiros-para-entrada-no-brasil/visto-temporario-xiv-2013-nomade-digital-vitem-xiv"
+  },
+  "savingsAlternative": {
+   "amount": 18000,
+   "currency": "USD",
+   "text": "Bank funds of at least USD 18,000 as alternative (translated)",
+   "source": "https://www.gov.br/mre/pt-br/consulado-lisboa/servicos-consulares/vistos-destinados-a-estrangeiros-para-entrada-no-brasil/visto-temporario-xiv-2013-nomade-digital-vitem-xiv"
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": null,
+   "text": "Stay of up to 1 year (translated)",
+   "source": "https://www.gov.br/mre/pt-br/consulado-lisboa/servicos-consulares/vistos-destinados-a-estrangeiros-para-entrada-no-brasil/visto-temporario-xiv-2013-nomade-digital-vitem-xiv"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": "No single figure: consular fee varies by consulate and nationality; EUR 100 for most nationalities (Helsinki embassy page) and for EU and North Macedonian citizens (Sofia embassy page), EUR 100 at Lisbon (all read in a browser by the audit; a 110 figure in an earlier version was wrong); paid at the consulate after the SCI application is submitted (seen via search excerpt of official page)",
+   "source": "https://www.gov.br/mre/pt-br/embaixada-sofia/vitem-xiv-digital-nomad"
+  },
+  "processingTime": {
+   "text": "Up to 5 business days (translated) (seen via search excerpt of official page)",
+   "source": "https://www.gov.br/mre/pt-br/embaixada-helsinque/consular-services/digital-nomad-visa-vitem-xiv"
+  },
+  "whereToApply": {
+   "text": "Electronic application through the Integrated Consular System (SCI) with document upload, no passport submission needed, for nationals exempt from visitor visas, from 1 September 2026; visa sent by email once authorised (translated) (seen via search excerpt of official page); register with the Federal Police within 90 days of first entry per the Helsinki and Lisbon pages (the Lima notice states no deadline; an earlier 30 days was wrong) (translated); some embassies (Helsinki) still require paper originals by post alongside the upload",
+   "source": "https://www.gov.br/mre/pt-br/embaixada-lima/noticias-avisos/emissao-de-vistos-temporarios-para-ingresso-no-brasil-para-nacionais-isentos-de-visto-vivis-sera-feita-na-modalidade-eletronica-a-partir-de-01-09-2026"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not verified",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Health insurance valid in Brazil covering the whole stay required (translated) (seen via search excerpt of official page)",
+   "source": "https://www.gov.br/mre/pt-br/embaixada-sofia/vitem-xiv-digital-nomad"
+  },
+  "officialSourceUrl": "https://www.gov.br/mre/pt-br/consulado-lisboa/servicos-consulares/vistos-destinados-a-estrangeiros-para-entrada-no-brasil/visto-temporario-xiv-2013-nomade-digital-vitem-xiv",
+  "sources": [
+   "https://www.gov.br/mre/pt-br/consulado-lisboa/servicos-consulares/vistos-destinados-a-estrangeiros-para-entrada-no-brasil/visto-temporario-xiv-2013-nomade-digital-vitem-xiv",
+   "https://www.gov.br/mre/pt-br/embaixada-sofia/vitem-xiv-digital-nomad",
+   "https://www.gov.br/mre/pt-br/embaixada-helsinque/consular-services/digital-nomad-visa-vitem-xiv",
+   "https://www.gov.br/mre/pt-br/embaixada-lima/noticias-avisos/emissao-de-vistos-temporarios-para-ingresso-no-brasil-para-nacionais-isentos-de-visto-vivis-sera-feita-na-modalidade-eletronica-a-partir-de-01-09-2026"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Income USD 1,500/month or USD 18,000 bank funds re-confirmed by search excerpts of consulate pages (translated). Dependants, tax and the governing Portaria/Normative Resolution text not verified from any readable official page; excerpt cites Portaria 428 (unread)."
+ },
+ {
+  "id": "bulgaria-digital-nomad-long-term-residence",
+  "country": "Bulgaria",
+  "iso2": "BG",
+  "officialName": "Digital nomad long-term residence permit (Law on Foreigners in the Republic of Bulgaria, new Art. 24c)",
+  "status": "open",
+  "statusNote": "Statute confirmed: State Gazette no. 52 of 27 Jun 2025 adds digital nomads (Art. 24 para 1 item 23; conditions in new Art. 24s) to the Law on Foreigners. Fees, processing time and insurance come from the general long-term residence service page, which does not mention digital nomads; implementing rules and D-visa steps not confirmed (mfa.bg blocked)",
+  "minIncome": {
+   "amount": 53850,
+   "currency": "BGN",
+   "period": "year",
+   "basis": "COMPUTED. Art. 24c requires an average annual income of not less than 50 minimum monthly wages for the previous calendar year (dv.parliament.bg, translated). Formula: 50 x BGN 1,077 = BGN 53,850, where BGN 1,077 is the minimum monthly wage from 1 Jan 2025 (Council of Ministers Decree No. 359/23.10.2024, per Ministry of Economy page https://www.mi.government.bg/en/general/vaznagrajdeniya-i-osigurovki/). Applies to applications made in 2026 (previous calendar year = 2025); the 2026 wage is higher (BGN 1,213 per a search result on Decree No. 243/13.11.2025, not read directly), so the figure rises yearly. The statute itself states no amount",
+   "source": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Renewable once for one additional year (Art. 24c, translated)",
+   "text": "Permit valid for one year, renewable once (translated)",
+   "source": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+  },
+  "governmentFee": {
+   "amount": 500,
+   "currency": "BGN",
+   "text": "Generic long-term residence service page (not nomad-specific; it does not mention digital nomads) lists (translated): application fee 10 BGN; residence permit up to 6 months 200 BGN, up to 1 year 500 BGN; currency as stated on the page, which may pre-date the euro changeover",
+   "source": "https://iisda.government.bg/adm_services/services/service_provision/21815"
+  },
+  "processingTime": {
+   "text": "[general long-term residence service, not nomad-specific] Up to 120 days from application submission (standard 14-60 days, extendable by up to two months) (translated)",
+   "source": "https://iisda.government.bg/adm_services/services/service_provision/21815"
+  },
+  "whereToApply": {
+   "text": "[general long-term residence service, not nomad-specific] Migration Directorate director and directors of the State Border Police and Regional Directorates of the Ministry of Interior (translated)",
+   "source": "https://iisda.government.bg/adm_services/services/service_provision/21815"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Art. 24c as read contains no provision on accompanying family members (translated); whether other family-reunification rules apply to nomad permit holders was not established",
+   "source": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "[general long-term residence service, not nomad-specific] Health insurance valid in Bulgaria, if not covered by law (translated)",
+   "source": "https://iisda.government.bg/adm_services/services/service_provision/21815"
+  },
+  "officialSourceUrl": "https://iisda.government.bg/adm_services/services/service_provision/21815",
+  "sources": [
+   "https://iisda.government.bg/adm_services/services/service_provision/21815",
+   "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Three categories (translated): employee of an employer registered outside the EU/EEA providing remote services by IT; owner/shareholder over 25% of such company; freelancer providing remote services for at least one year. Register page cites Art. 24(1) item 22, State Gazette text cites item 23; discrepancy unresolved. Also required: housing, criminal record, means of support. A type D visa is a prior step; BTA (state news agency) reported it is valid up to six months with stay up to 180 days; not read on mfa.bg."
+ },
+ {
+  "id": "cabo-verde-nomadas-digitais",
+  "country": "Cabo Verde",
+  "iso2": "CV",
+  "officialName": "Nómadas Digitais (Digital Nomads) - e-Residencia",
+  "status": "unclear",
+  "statusNote": "Page lists requirements and fee; online application marked 'coming soon' (translated)",
+  "minIncome": {
+   "amount": null,
+   "currency": "CVE",
+   "period": null,
+   "basis": "Proof of income required; no amount stated",
+   "source": "https://e-portaldef.gov.cv/nomadas-digitais"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": "CVE",
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": null,
+   "maxRenewalsText": null,
+   "text": "Not stated on page",
+   "source": "https://e-portaldef.gov.cv/nomadas-digitais"
+  },
+  "governmentFee": {
+   "amount": 5000,
+   "currency": "CVE",
+   "text": "Listed as 5000 CVE (translated)",
+   "source": "https://e-portaldef.gov.cv/nomadas-digitais"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Contact the residence directorate by phone/email; online application 'coming soon' (translated)",
+   "source": "https://e-portaldef.gov.cv/nomadas-digitais"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not addressed",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "Medical certificate required; insurance not stated",
+   "source": "https://e-portaldef.gov.cv/nomadas-digitais"
+  },
+  "officialSourceUrl": "https://e-portaldef.gov.cv/nomadas-digitais",
+  "sources": [
+   "https://e-portaldef.gov.cv/nomadas-digitais"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-28",
+  "notes": "Requirements (translated): passport, criminal record certificate, proof of link to remote employer, proof of income, accommodation, medical certificate."
+ },
+ {
+  "id": "cayman-islands-global-citizen-certificate",
+  "country": "Cayman Islands",
+  "iso2": "KY",
+  "officialName": "Global Citizen Certificate (Global Citizen Concierge Programme)",
+  "status": "closed",
+  "statusNote": "Audit 2026-09-29: regulations provided for an application deadline of 31 Oct 2022 and expiry on 30 Nov 2024 unless extended by Cabinet; secondary reports say the regulations lapsed and the programme is reported closed. No official extension read. Fees and thresholds are historical",
+  "minIncome": {
+   "amount": 100000,
+   "currency": "USD",
+   "period": "year",
+   "basis": "Continuous annual income from outside the Islands, minimum USD 100,000 for applicant alone; USD 150,000 with one dependant; 168,000 with two; 186,000 with three; 204,000 with four; 222,000 with five; discretion of Director of WORC beyond five",
+   "source": "https://legislation.gov.ky/cms/images/LEGISLATION/SUBORDINATE/2020/2020-0131/2020-0131.pdf"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 24,
+   "maxRenewalsText": "Only one Global Citizen Certificate may be obtained",
+   "text": "May enter and work remotely for a period not exceeding twenty four months; at least 90 days aggregate physical presence in any year",
+   "source": "https://legislation.gov.ky/cms/images/LEGISLATION/SUBORDINATE/2020/2020-0131/2020-0131.pdf"
+  },
+  "governmentFee": {
+   "amount": 1230,
+   "currency": "$",
+   "text": "Annual fee $1230 for applicant and one dependant; $420 annual fee for each further dependant; second year fee payable by end of first year (currency symbol only as stated)",
+   "source": "https://legislation.gov.ky/cms/images/LEGISLATION/SUBORDINATE/2020/2020-0131/2020-0131.pdf"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Application to the Director of WORC (Workforce Opportunities and Residency Cayman) in the form the Director provides",
+   "source": "https://legislation.gov.ky/cms/images/LEGISLATION/SUBORDINATE/2020/2020-0131/2020-0131.pdf"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Dependants may accompany or join if named in the Certificate; a dependant who wants to work remotely must apply separately",
+   "source": "https://legislation.gov.ky/cms/images/LEGISLATION/SUBORDINATE/2020/2020-0131/2020-0131.pdf"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Health insurance coverage considered adequate by the Director of WORC for the holder and dependants for the Certificate duration",
+   "source": "https://legislation.gov.ky/cms/images/LEGISLATION/SUBORDINATE/2020/2020-0131/2020-0131.pdf"
+  },
+  "officialSourceUrl": "https://legislation.gov.ky/cms/images/LEGISLATION/SUBORDINATE/2020/2020-0131/2020-0131.pdf",
+  "sources": [
+   "https://legislation.gov.ky/cms/images/LEGISLATION/SUBORDINATE/2020/2020-0131/2020-0131.pdf"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Read from Immigration (Transition) (Global Citizen Exemption) Regulations (2023 Revision), consolidated as at 31 Dec 2022. Applicant must be employed outside the Islands and may not offer goods or services to anyone in the Islands. A gov.ky press release titled 'Global Citizen Concierge Programme extended' appeared in search results but returned 404 on fetch, so no extension is confirmed."
+ },
+ {
+  "id": "colombia-digital-nomad-visitor-visa",
+  "country": "Colombia",
+  "iso2": "CO",
+  "officialName": "Visitante - Nómada digital (Visa V)",
+  "status": "open",
+  "statusNote": "Fee page and Resolution 5477/2022 (Art. 46) list the visa; no closure notice seen",
+  "minIncome": {
+   "amount": null,
+   "currency": "COP",
+   "period": "month",
+   "basis": "3 SMMLV shown by bank statements for the last 3 months (Res. 5477/2022 Art. 46, translated); SMMLV 2026 fixed at COP 1,750,905 per month by Decree 159/2026 (translated)",
+   "source": "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/resolucion_minrelaciones_5477_2022.htm"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 24,
+   "maxRenewalsText": null,
+   "text": "Visa validity up to two years (translated)",
+   "source": "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/resolucion_minrelaciones_5477_2022.htm"
+  },
+  "governmentFee": {
+   "amount": 183,
+   "currency": "USD",
+   "text": "Visa fee USD 183 (EUR 141) plus study fee USD 56 (EUR 44) per fee page",
+   "source": "https://www.cancilleria.gov.co/node/32875"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Online visa application platform of Cancillería (Sitac)",
+   "source": "https://tramitesmre.cancilleria.gov.co/tramites/enlinea/solicitarVisa.xhtml"
+  },
+  "taxTreatment": {
+   "text": "General rule, no nomad regime found: DIAN page states tax residency arises from more than 183 calendar days in any 365 consecutive days; page does not mention digital nomads (translated)",
+   "source": "https://www.dian.gov.co/impuestos/personas/Paginas/rentaresidentes.aspx"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Request may be made for beneficiaries of the main holder (translated)",
+   "source": "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/resolucion_minrelaciones_5477_2022.htm"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Health policy valid in Colombia covering accident, illness, maternity, disability, hospitalisation, death, repatriation (translated)",
+   "source": "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/resolucion_minrelaciones_5477_2022.htm"
+  },
+  "officialSourceUrl": "https://www.cancilleria.gov.co/node/32875",
+  "sources": [
+   "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/resolucion_minrelaciones_5477_2022.htm",
+   "https://www.cancilleria.gov.co/node/32875",
+   "https://www.cancilleria.gov.co/normograma/compilacion/docs/decreto_0159_2026.htm",
+   "https://www.dian.gov.co/impuestos/personas/Paginas/rentaresidentes.aspx"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Savings alternative: none stated in Art. 46. Processing time not stated on pages read."
+ },
+ {
+  "id": "costarica-remote-workers-law-10008",
+  "country": "Costa Rica",
+  "iso2": "CR",
+  "officialName": "Digital Nomads / remote workers and international-service providers (Law 10.008)",
+  "status": "open",
+  "statusNote": "Application requirements page live (Costa Rica Tourism Board, official); migracion.go.cr blocked (403)",
+  "minIncome": {
+   "amount": 3000,
+   "currency": "USD",
+   "period": "month",
+   "basis": "Monthly income from outside Costa Rica; USD 4,000 if applying with dependants",
+   "source": "https://www.visitcostarica.com/digital-nomads/requirements"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Renewable for one additional year; renewal requires at least 80 days presence in Costa Rica (Art. 15 of the Law) per the tourism board renewal page",
+   "text": "Extends a 90-day tourist stay to one year, renewable for one additional year, per Costa Rica Tourism Board page",
+   "source": "https://www.visitcostarica.com/en/costa-rica/digital-nomads"
+  },
+  "governmentFee": {
+   "amount": 100,
+   "currency": "USD",
+   "text": "USD 100 government fee, or colón equivalent",
+   "source": "https://www.visitcostarica.com/digital-nomads/requirements"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Digital platform Tramite Ya, or in person at DGME central/regional offices",
+   "source": "https://www.visitcostarica.com/digital-nomads/requirements"
+  },
+  "taxTreatment": {
+   "text": "Tourism board page states digital nomads are exempt from income tax (as stated; not read on immigration or statute page)",
+   "source": "https://www.visitcostarica.com/en/costa-rica/digital-nomads"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Family members may be included (USD 4,000 threshold); minors' applications signed by parent",
+   "source": "https://www.visitcostarica.com/digital-nomads/requirements"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Medical insurance covering the full authorised stay with coverage of at least USD 50,000, from an international or Costa Rican insurer; dependants must also be insured",
+   "source": "https://www.visitcostarica.com/en/costa-rica/digital-nomads"
+  },
+  "officialSourceUrl": "https://migracion.go.cr/nomadas-digitales/",
+  "sources": [
+   "https://www.visitcostarica.com/digital-nomads/requirements",
+   "https://www.visitcostarica.com/digital-nomads/renewal",
+   "https://www.visitcostarica.com/en/costa-rica/digital-nomads"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Conflict: main tourism page promotional text says USD 5,000 for families, while the requirements page says USD 4,000 with dependants; requirements page kept. migracion.go.cr still returns 403."
+ },
+ {
+  "id": "croatia-digital-nomad-temporary-stay",
+  "country": "Croatia",
+  "iso2": "HR",
+  "officialName": "Temporary stay of digital nomads",
+  "status": "open",
+  "statusNote": "Ministry of Interior page describes application process, checked 2026-09-28",
+  "minIncome": {
+   "amount": 3622.5,
+   "currency": "EUR",
+   "period": "month",
+   "basis": "At least 2.5 average monthly net salaries paid in the previous year; currently 3,622.50 EUR per month (increases by 10% of the average salary per family member)",
+   "source": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833"
+  },
+  "savingsAlternative": {
+   "amount": 43470,
+   "currency": "EUR",
+   "text": "Alternatively 43,470 EUR in the bank for a 12-month stay, or 65,205 EUR for 18 months",
+   "source": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833"
+  },
+  "duration": {
+   "initialMonths": 18,
+   "maxRenewalsText": "Extension of up to 6 months if granted for under 18 months; apply at least 60 days before expiry",
+   "text": "Temporary stay up to a maximum of 18 months",
+   "source": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833"
+  },
+  "governmentFee": {
+   "amount": 46.45,
+   "currency": "EUR",
+   "text": "46.45 EUR at police (plus card fees 9.29 and 31.85 EUR); at a consulate 55.74 EUR plus 93.00 EUR for D visa or 41.14 EUR for card",
+   "source": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Online, at a Croatian embassy/consulate, or at the local police station if legally in Croatia; visa-required nationals must apply at a mission",
+   "source": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833"
+  },
+  "taxTreatment": {
+   "text": "Tax Administration page on tax changes from 1 Jan 2021 states that the tax position of income earned by digital nomads was defined as an exemption from taxation (translated); eligibility conditions are not detailed on that page",
+   "source": "https://porezna-uprava.gov.hr/hr/porezne-promjene-od-1-sijecnja-2021/4750"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Close family may join via temporary stay for family reunification, including unmarried partners after 3 years (shorter with a child)",
+   "source": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Proof of health insurance covering Croatia for the whole stay",
+   "source": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833"
+  },
+  "officialSourceUrl": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833",
+  "sources": [
+   "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833",
+   "https://porezna-uprava.gov.hr/hr/porezne-promjene-od-1-sijecnja-2021/4750"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Must work for a foreign employer or own foreign company and not for Croatian employers; new application possible 6 months after prior stay expires; documents in Croatian or English."
+ },
+ {
+  "id": "curacao-at-home-in-curacao",
+  "country": "Curaçao",
+  "iso2": "CW",
+  "officialName": "@HOME in Curaçao (remote worker / digital nomad temporary stay permit)",
+  "status": "open",
+  "statusNote": "FAQ states applications are open",
+  "minIncome": {
+   "amount": null,
+   "currency": "ANG",
+   "period": null,
+   "basis": "No income threshold stated on FAQ; must prove location-independent work",
+   "source": "https://athomeincuracao.com/faq/"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": "ANG",
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 6,
+   "maxRenewalsText": "Extendable once by another 6 months (max 1 year)",
+   "text": "6 months, extendable for a further 6 months",
+   "source": "https://athomeincuracao.com/faq/"
+  },
+  "governmentFee": {
+   "amount": 535,
+   "currency": "ANG",
+   "text": "ANG 535 per applicant (remote workers)",
+   "source": "https://athomeincuracao.com/faq/"
+  },
+  "processingTime": {
+   "text": "About 2 weeks",
+   "source": "https://athomeincuracao.com/faq/"
+  },
+  "whereToApply": {
+   "text": "Online at athomeincuracao.com; individual applications only, no brokers",
+   "source": "https://athomeincuracao.com/faq/"
+  },
+  "taxTreatment": {
+   "text": "Remote workers are not required to pay Curaçao income tax",
+   "source": "https://athomeincuracao.com/faq/"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Family members aged 12+ apply individually, no family bundle fee",
+   "source": "https://athomeincuracao.com/faq/"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Valid medical insurance is a prerequisite for approval",
+   "source": "https://athomeincuracao.com/faq/"
+  },
+  "officialSourceUrl": "https://athomeincuracao.com/faq/",
+  "sources": [
+   "https://athomeincuracao.com/faq/",
+   "https://www.curacao.com/en/article/home-in-curacao-convenient-working--living-program"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "All nationalities. Same programme has hibernator and investor categories (not recorded). Government ownership now supported by the Curacao Tourist Board article (says the government of Curacao introduced the programme). That older article quotes an application fee of $294, which differs from the ANG 535 on the FAQ; FAQ figure kept as the current one, unresolved."
+ },
+ {
+  "id": "cyprus-digital-nomad-visa",
+  "country": "Cyprus",
+  "iso2": "CY",
+  "officialName": "Cyprus Digital Nomad Visa Scheme",
+  "status": "open",
+  "statusNote": "Read on the official gov.cy Migration Department page 'Digital nomads and family members' (posted 31 December 2025): applications are being accepted again, cap remains 500 permits. Verified in audit 2026-09-29 (page loads with a browser user agent).",
+  "minIncome": {
+   "amount": 3500,
+   "currency": "EUR",
+   "period": "month",
+   "basis": "Stable and sufficient monthly net income of at least EUR 3,500 after deduction of contributions and taxes",
+   "source": "https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Right of residence for one year, renewable for a further two years",
+   "text": "One year, with renewal for a further two years",
+   "source": "https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Migration Department, Deputy Ministry of Migration and International Protection (not verified from page)",
+   "source": "https://www.gov.cy/en/migration/announcement-by-the-deputy-ministry-of-migration-and-international-protection-on-cyprus-digital-nomad-visa-scheme/"
+  },
+  "taxTreatment": {
+   "text": "The official page states: staying one or more periods totalling more than 183 days in the same tax year makes the person a Cyprus tax resident, provided not tax resident in another country. No scheme-specific tax break stated",
+   "source": "https://www.gov.cy/en/migration/announcement-by-the-deputy-ministry-of-migration-and-international-protection-on-cyprus-digital-nomad-visa-scheme/"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Family members (spouse or civil-union partner, underage children) may reside for the same period without the right to be employed or perform economic activity in Cyprus",
+   "source": "https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/"
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "Not verified",
+   "source": null
+  },
+  "officialSourceUrl": "https://www.gov.cy/en/migration/announcement-by-the-deputy-ministry-of-migration-and-international-protection-on-cyprus-digital-nomad-visa-scheme/",
+  "sources": [
+   "https://www.gov.cy/en/migration/announcement-by-the-deputy-ministry-of-migration-and-international-protection-on-cyprus-digital-nomad-visa-scheme/",
+   "https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Search-result excerpt of the gov.cy page mentioned a net income of at least 3,500 EUR/month and 1 year plus 2-year renewal; not confirmed from the page, so not entered as data."
+ },
+ {
+  "id": "czechia-digital-nomad-program",
+  "country": "Czech Republic",
+  "iso2": "CZ",
+  "officialName": "Digital Nomad Program (Ministry of Industry and Trade fast-track)",
+  "status": "open",
+  "statusNote": "Consular page updated 13.03.2026 describes the programme; no legal entitlement to participation",
+  "minIncome": {
+   "amount": null,
+   "currency": "CZK",
+   "period": "month",
+   "basis": "Income threshold not stated on the consular page",
+   "source": "https://mzv.gov.cz/losangeles/en/visa_information/digital_nomad_program.html"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": null,
+   "text": "Czech MFA long-term visa page for business purposes: a long-term visa can be issued for a maximum of one year. The programme page itself states no duration; this is the general long-term visa route the programme leads to",
+   "source": "https://mzv.gov.cz/jnp/en/information_for_aliens/long_stay_visa/entrepreneurship.html"
+  },
+  "governmentFee": {
+   "amount": 2500,
+   "currency": "CZK",
+   "text": "General long-term (national, type D) visa fee per the Czech MFA fee schedule; the programme page does not state a fee and some nationalities are exempt or reduced",
+   "source": "https://mzv.gov.cz/jnp/en/information_for_aliens/visa_fee_schedule/index.html"
+  },
+  "processingTime": {
+   "text": "Applications processed within 45 days of submission",
+   "source": "https://mzv.gov.cz/losangeles/en/visa_information/digital_nomad_program.html"
+  },
+  "whereToApply": {
+   "text": "Programme admission by email to digitalnomad@mpo.gov.cz (Ministry of Industry and Trade), then long-term visa/permit at a Czech embassy/consulate abroad",
+   "source": "https://mzv.gov.cz/losangeles/en/visa_information/digital_nomad_program.html"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Spouse, registered partner and child may be included if applying at the same time",
+   "source": "https://mzv.gov.cz/losangeles/en/visa_information/digital_nomad_program.html"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Business-purpose long-term visa route: travel medical insurance required; an officially verified Czech translation of the policy and conditions is submitted when collecting the visa, not at application. Programme page itself silent",
+   "source": "https://mzv.gov.cz/jnp/en/information_for_aliens/long_stay_visa/entrepreneurship.html"
+  },
+  "officialSourceUrl": "https://mzv.gov.cz/losangeles/en/visa_information/digital_nomad_program.html",
+  "sources": [
+   "https://mzv.gov.cz/losangeles/en/visa_information/digital_nomad_program.html",
+   "https://mzv.gov.cz/jnp/en/information_for_aliens/long_stay_visa/entrepreneurship.html",
+   "https://mzv.gov.cz/jnp/en/information_for_aliens/visa_fee_schedule/index.html"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Only highly qualified IT or marketing employees of foreign employers, or freelancers with a Czech trade licence in IT/marketing. Separate general zivno (business) visa not verified."
+ },
+ {
+  "id": "dominica-work-in-nature-extended-stay",
+  "country": "Dominica",
+  "iso2": "DM",
+  "officialName": "Work In Nature (WIN) Extended Stay Visa",
+  "status": "open",
+  "statusNote": "Official WIN site presents online application and fee pages as live",
+  "minIncome": {
+   "amount": 50000,
+   "currency": "USD",
+   "period": "year",
+   "basis": "expected income of US$50,000 or more over next 12 months, and/or means to support self and accompanying family",
+   "source": "https://windominica.gov.dm/details/eligibility"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": "USD",
+   "text": "Page allows showing 'means to support' self and family in place of/alongside income; no amount given",
+   "source": "https://windominica.gov.dm/details/eligibility"
+  },
+  "duration": {
+   "initialMonths": 18,
+   "maxRenewalsText": null,
+   "text": "Visa stamp issued on arrival, valid up to 18 months; approved applicants have 90 days to enter Dominica",
+   "source": "https://windominica.gov.dm/details/processing-times"
+  },
+  "governmentFee": {
+   "amount": 100,
+   "currency": "USD",
+   "text": "Non-refundable application fee US$100; then visa fee US$800 single applicant, US$1,200 family; business team of 4+: US$800 plus US$500 per additional employee",
+   "source": "https://windominica.gov.dm/details/fees"
+  },
+  "processingTime": {
+   "text": "Approval letter within 14-28 days of submitting the form; 30 days after approval to pay visa fee",
+   "source": "https://windominica.gov.dm/details/processing-times"
+  },
+  "whereToApply": {
+   "text": "Online application on the official WIN site; arrive in Dominica and notify the WIN officer",
+   "source": "https://windominica.gov.dm/details/application-process"
+  },
+  "taxTreatment": {
+   "text": "No income tax liable in Dominica; waiver on income tax granted to persons working remotely from Dominica under the WIN Visa; applicants remain responsible for taxes in their home country",
+   "source": "https://windominica.gov.dm/faq"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Spouse/partner, children under 18 and wholly dependent relatives may accompany; proof of relationship required",
+   "source": "https://windominica.gov.dm/details/eligibility"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Valid medical insurance is a prerequisite for approval; certificate or policy from a recognised insurer; for families the policy must cover all members",
+   "source": "https://windominica.gov.dm/faq"
+  },
+  "officialSourceUrl": "https://windominica.gov.dm/",
+  "sources": [
+   "https://windominica.gov.dm/details/eligibility",
+   "https://windominica.gov.dm/details/application-process",
+   "https://windominica.gov.dm/details/fees",
+   "https://windominica.gov.dm/details/processing-times",
+   "https://windominica.gov.dm/faq"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Minimum age 18. Business teams also eligible. Fee page did not list a separate couple price."
+ },
+ {
+  "id": "ecuador-visa-nomada",
+  "country": "Ecuador",
+  "iso2": "EC",
+  "officialName": "Visa de residencia temporal rentista para trabajo remoto (Visa Nómada)",
+  "status": "open",
+  "statusNote": "Official procedure page live",
+  "minIncome": {
+   "amount": null,
+   "currency": "USD",
+   "period": "month",
+   "basis": "3 SBU per month from foreign sources shown by statements of the previous 3 months (translated); SBU 2026 = USD 482 per Ministerio del Trabajo (translated)",
+   "source": "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": "36 SBU per year alternative stated (translated)",
+   "source": "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+  },
+  "duration": {
+   "initialMonths": 24,
+   "maxRenewalsText": "Renewable once (translated)",
+   "text": "Up to 2 years (translated)",
+   "source": "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+  },
+  "governmentFee": {
+   "amount": 320,
+   "currency": "USD",
+   "text": "Application USD 50 plus visa issuance USD 270, total USD 320; no IVA; 50% discount aged 65+; exemption for 30%+ disability (translated). Re-read 2026-09-29: page still states 50+270; no USD 460 figure found on any official page",
+   "source": "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Online only via e-VISAS platform of the foreign ministry (translated)",
+   "source": "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Extra USD 250 monthly income per dependant (translated)",
+   "source": "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Valid national or foreign health insurance for the visa period (translated)",
+   "source": "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+  },
+  "officialSourceUrl": "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada",
+  "sources": [
+   "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada",
+   "https://www.trabajo.gob.ec/despues-de-casi-una-decada-hay-consenso-gobierno-empleadores-y-trabajadores-acuerdan-fijar-el-salario-basico-unificado-de-2026-en-usd-482-no-hay-imposicion-hay-union/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Fee conflict resolved in favour of USD 320 (official gob.ec procedure page read twice); USD 460 excerpt not reproduced. Processing time not stated on the page."
+ },
+ {
+  "id": "estonia-digital-nomad-visa",
+  "country": "Estonia",
+  "iso2": "EE",
+  "officialName": "Digital Nomad Visa (Type D long-stay visa, teleworking)",
+  "status": "open",
+  "statusNote": "Work in Estonia (state agency) page presents applications as open, with restrictions for Russia and Belarus",
+  "minIncome": {
+   "amount": 3960,
+   "currency": "EUR",
+   "period": "month",
+   "basis": "Subsistence funds for teleworking (digital nomad visa) stated as 132 EUR per day (3,960 EUR per month) on the MFA long-stay visa page",
+   "source": "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Two consecutive D visas: total stay no more than 548 days within 730 days",
+   "text": "D visa may be issued for up to 365 days within twelve consecutive months",
+   "source": "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa"
+  },
+  "governmentFee": {
+   "amount": 120,
+   "currency": "EUR",
+   "text": "Visa fee EUR 120; children 6-11 EUR 60; some exemptions",
+   "source": "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa"
+  },
+  "processingTime": {
+   "text": "Processing usually takes up to 30 days",
+   "source": "https://www.workinestonia.com/moving-to-estonia/digital-nomad-visa/"
+  },
+  "whereToApply": {
+   "text": "Estonian embassy/consulate, or Police and Border Guard Board if already legally in Estonia, or Visa Facilitation Services centres in selected countries",
+   "source": "https://www.workinestonia.com/moving-to-estonia/digital-nomad-visa/"
+  },
+  "taxTreatment": {
+   "text": "Tax Board: a person staying in Estonia at least 183 days within 12 consecutive calendar months is a tax resident (worldwide income); non-residents pay income tax only on income received in Estonia. The state e-Residency FAQ (https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/) applies the 183-day rule to digital nomad visa holders",
+   "source": "https://www.emta.ee/en/private-client/foreigner-non-resident/tax-residency/determining-residency"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "A spouse and minor child (and/or an adult child unable to cope independently due to a medical condition or disability) may apply for a visa; spouse decisions are case by case (state e-Residency FAQ)",
+   "source": "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Travel medical insurance valid for the whole visa period is a general D visa requirement",
+   "source": "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa"
+  },
+  "officialSourceUrl": "https://www.workinestonia.com/moving-to-estonia/digital-nomad-visa/",
+  "sources": [
+   "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa",
+   "https://www.workinestonia.com/moving-to-estonia/digital-nomad-visa/",
+   "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/",
+   "https://www.emta.ee/en/private-client/foreigner-non-resident/tax-residency/determining-residency"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Teleworking documents include employer confirmation or contracts and tax/social-contribution proof from applicant's country; income proof for previous 3 months. The 3,960/month figure is the teleworking row of the MFA subsistence table (not labelled as an income threshold)."
+ },
+ {
+  "id": "georgia-remotely-from-georgia",
+  "country": "Georgia",
+  "iso2": "GE",
+  "officialName": "Remotely from Georgia (state programme) and visa-free one-year stay",
+  "status": "none",
+  "statusNote": "Audit 2026-09-29: the tourism administration text describes 'Remotely from Georgia' in the past tense (pandemic-era) and the SDA page lists no nomad permit. What exists is the visa-free one-year stay for citizens of 98 countries and a 20% / 1% tax split. Not a nomad permit, so listed as no scheme",
+  "minIncome": {
+   "amount": null,
+   "currency": null,
+   "period": null,
+   "basis": null,
+   "source": null
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": null,
+   "text": "Visa-free stay of one full year for eligible nationals (georgia.travel visa page); this is the entry regime, not a nomad permit",
+   "source": "https://georgia.travel/coming-to-georgia/georgia-travel-visa-application"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": "No fee stated on pages read",
+   "source": null
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": null,
+   "source": null
+  },
+  "taxTreatment": {
+   "text": "Tourism administration states employees are taxed at 20% and self-employed/individual entrepreneurs at 1% of taxes (page wording; no Revenue Service source read)",
+   "source": "https://georgia.travel/en_US/article/remotely-from-georgia"
+  },
+  "dependants": {
+   "allowed": null,
+   "text": null,
+   "source": null
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": null,
+   "source": null
+  },
+  "officialSourceUrl": "https://georgia.travel/en_US/article/remotely-from-georgia",
+  "sources": [
+   "https://georgia.travel/en_US/article/remotely-from-georgia",
+   "https://georgia.travel/coming-to-georgia/georgia-travel-visa-application",
+   "https://sda.gov.ge/en/products/migration-residence-permits/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "State Services Development Agency (sda.gov.ge) page read lists an IT residence permit (2 years' IT experience, USD 25,000 annual income) and no dedicated remote-work permit. Revenue Service small-business page was JavaScript-only and unreadable."
+ },
+ {
+  "id": "germany-freelance-residence-permit",
+  "country": "Germany",
+  "iso2": "DE",
+  "officialName": "Residence permit for freelance work (Section 21(5) Residence Act); no nomad-specific scheme found",
+  "status": "none",
+  "statusNote": "No digital-nomad-specific permit named on the Federal Foreign Office and BAMF pages checked; freelance permit is the closest route",
+  "minIncome": {
+   "amount": null,
+   "currency": "EUR",
+   "period": null,
+   "basis": "No fixed amount; applicant must show means to fund the project and support themselves",
+   "source": "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/12-own-business/606752"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": null,
+   "maxRenewalsText": "Extension possible, initially up to three years",
+   "text": "Residence permit for self-employment issued for a maximum of three years",
+   "source": "https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/SelbstaendigeTaetigkeit/selbstaendigetaetigkeit-node.html"
+  },
+  "governmentFee": {
+   "amount": 100,
+   "currency": "EUR",
+   "text": "Berlin foreigners authority (LEA) lists EUR 100.00 for a residence permit issued as electronic residence permit (EUR 56.00 as sticker label); fee is for in-country issue, local schedule; also see AufenthV s.45 (gesetze-im-internet.de) which sets 100 EUR for permits valid over one year. Visa fee at a mission not read",
+   "source": "https://service.berlin.de/dienstleistung/328332/en/"
+  },
+  "processingTime": {
+   "text": "Berlin LEA: sticker permit can be issued on the spot at the appointment; electronic residence permit takes 4-6 weeks before collection (translated from German). Excludes visa stage at mission",
+   "source": "https://service.berlin.de/dienstleistung/305249/en/"
+  },
+  "whereToApply": {
+   "text": "Local German mission (visa), then foreigners authority",
+   "source": "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/12-own-business/606752"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Federal Foreign Office page (s.21 self-employment): permit extendable if the business sustains you and your family; settlement permit after three years for manual trade/retail businesses. No explicit family-immigration rule stated on the page",
+   "source": "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/12-own-business/606752"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Berlin LEA: health insurance in Germany, statutory or comparable private insurance; foreign health insurance is not sufficient",
+   "source": "https://service.berlin.de/dienstleistung/305249/en/"
+  },
+  "officialSourceUrl": "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/12-own-business/606752",
+  "sources": [
+   "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/12-own-business/606752",
+   "https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/SelbstaendigeTaetigkeit/selbstaendigetaetigkeit-node.html",
+   "https://service.berlin.de/dienstleistung/328332/en/",
+   "https://service.berlin.de/dienstleistung/305249/en/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Freelancers in liberal professions need permission to practise; over-45s must show old-age provision. Absence of a nomad scheme is inferred, not stated by the pages."
+ },
+ {
+  "id": "greece-digital-nomad-visa",
+  "country": "Greece",
+  "iso2": "GR",
+  "officialName": "Digital Nomad Visa (national D-type visa), Ministry of Foreign Affairs",
+  "status": "open",
+  "statusNote": "Audit 2026-09-29: the Ministry of Foreign Affairs page 'Digital Nomad Visa' (read in a real browser) states no figures and refers readers to workfromgreece.gr. The scheme itself (national D visa, Law 4825/2021 art. 11) is confirmed by EY Greece (15 Sept 2021) and taxheaven.gr (25 Aug 2021), both summarising the law",
+  "minIncome": {
+   "amount": 3500,
+   "currency": "EUR",
+   "period": "month",
+   "basis": "EUR 3,500 a month stable income, after tax (workfromgreece.gr; EY Greece; taxheaven.gr summarising Law 4825/2021 art. 11). The mfa.gr page itself gives no figure",
+   "source": "https://workfromgreece.gr/setting-up-in-greece/the-digital-nomad-visa-for-greece-who-is-eligible-and-how-to-get-one/"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": "None stated: the Article 11 text (as reproduced on e-forologia.gr, a legal database, i.e. a secondary reproduction of Law 4825/2021) sets only a stable monthly income of EUR 3,500 (+20% spouse, +15% per child); no savings or capital alternative appears",
+   "source": "https://www.e-forologia.gr/lawbank/document.aspx?digest=FA29115BC780BDD8.22D62E26E720&version=2021/09/04"
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Residence permit of 2 years, renewable for further 2-year periods while conditions continue to be met; absences up to 6 months a year do not prevent renewal (Law 4825/2021 art. 11 text as reproduced on e-forologia.gr, paraphrased; EY Greece confirms 2-year permit with renewal)",
+   "text": "National visa valid up to 12 months; a 2-year residence permit can then be applied for in Greece (workfromgreece.gr, EY Greece, taxheaven.gr, law text). Since 5 Feb 2026 (N5275/2026, per workfromgreece.gr) the permit can no longer be applied for while in Greece on a tourist visa or visa waiver",
+   "source": "https://www.e-forologia.gr/lawbank/document.aspx?digest=FA29115BC780BDD8.22D62E26E720&version=2021/09/04"
+  },
+  "governmentFee": {
+   "amount": 75,
+   "currency": "EUR",
+   "text": "National visa fee EUR 75 (Law 4825/2021 art. 11 text as reproduced on e-forologia.gr; also EUR 75 per taxheaven.gr and workfromgreece.gr). Residence permit application fee EUR 1,000 per the same law text. EUR 150 per family member and the EUR 16 card-printing fee come from secondary pages only (workfromgreece.gr; search excerpt of a Greek law-firm page)",
+   "source": "https://www.e-forologia.gr/lawbank/document.aspx?digest=FA29115BC780BDD8.22D62E26E720&version=2021/09/04"
+  },
+  "processingTime": {
+   "text": "[secondary] Consulate confirms receipt within 10 days, approval typically within one month (workfromgreece.gr)",
+   "source": "https://workfromgreece.gr/setting-up-in-greece/the-digital-nomad-visa-for-greece-who-is-eligible-and-how-to-get-one/"
+  },
+  "whereToApply": {
+   "text": "Greek diplomatic mission or consular post in whose jurisdiction the applicant is legally located (national visas page, seen via search excerpt); [secondary] cannot apply from within Greece",
+   "source": "https://www.mfa.gr/en/services/national-visas/"
+  },
+  "taxTreatment": {
+   "text": "Not stated for the visa itself. The 50% income-tax reduction for new residents (Art. 5C, Income Tax Code) requires transferring tax residence and is aimed at income from activity in Greece; it is not automatic for visa holders who work only for foreign employers. Not confirmed on an official page; get written advice",
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Spouse/partner and children under 18 may accompany; income rises 20% for a spouse (EUR 4,200 total) and 15% (EUR 525) for each child (EY Greece; taxheaven.gr; workfromgreece.gr). They may not work in Greece",
+   "source": "https://workfromgreece.gr/setting-up-in-greece/the-digital-nomad-visa-for-greece-who-is-eligible-and-how-to-get-one/"
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "[secondary] Travel insurance listed among documents (workfromgreece.gr)",
+   "source": "https://workfromgreece.gr/setting-up-in-greece/the-digital-nomad-visa-for-greece-who-is-eligible-and-how-to-get-one/"
+  },
+  "officialSourceUrl": "https://www.mfa.gr/en/services/working-in-greece-as-a-digital-nomad/",
+  "sources": [
+   "https://www.mfa.gr/en/services/working-in-greece-as-a-digital-nomad/",
+   "https://www.mfa.gr/en/services/national-visas/",
+   "https://workfromgreece.gr/setting-up-in-greece/the-digital-nomad-visa-for-greece-who-is-eligible-and-how-to-get-one/",
+   "https://www.ey.com/en_gr/technical/tax/tax-alerts/greece-introduces-digital-nomad-visa",
+   "https://www.taxheaven.gr/news/55732/pshfiakoi-nomades-kai-golden-visa-oi-nees-diataxeis-gia-th-xorhghsh-adeiwn-diamonhs",
+   "https://www.e-forologia.gr/lawbank/document.aspx?digest=FA29115BC780BDD8.22D62E26E720&version=2021/09/04"
+  ],
+  "secondarySources": [
+   {
+    "name": "workfromgreece.gr",
+    "url": "https://workfromgreece.gr/setting-up-in-greece/the-digital-nomad-visa-for-greece-who-is-eligible-and-how-to-get-one/",
+    "usedFor": "site the MFA page refers applicants to; figures, fees, family amounts"
+   },
+   {
+    "name": "EY Greece tax alert, 15 Sept 2021",
+    "url": "https://www.ey.com/en_gr/technical/tax/tax-alerts/greece-introduces-digital-nomad-visa",
+    "usedFor": "cross-check of income, family increments, duration"
+   },
+   {
+    "name": "taxheaven.gr, 25 Aug 2021",
+    "url": "https://www.taxheaven.gr/news/55732/pshfiakoi-nomades-kai-golden-visa-oi-nees-diataxeis-gia-th-xorhghsh-adeiwn-diamonhs",
+    "usedFor": "cross-check of income, increments, EUR 75 and EUR 1,000 fees"
+   }
+  ],
+  "checked": "2026-09-29",
+  "notes": "Audit 2026-09-29 (browser read of mfa.gr): the mfa.gr digital nomad page contains only a pointer to workfromgreece.gr; earlier 'official' figures were misattributed to it. Figures now sourced to the law summaries and workfromgreece.gr. Primary law text (Law 4825/2021 art. 11, ministry circular) not readable as text in this audit; confirm at consulate. 50% tax break not confirmed and likely not automatic."
+ },
+ {
+  "id": "grenada-remote-employment-act-permit",
+  "country": "Grenada",
+  "iso2": "GD",
+  "officialName": "Remote-work permit under the Remote Employment Act, 2021",
+  "status": "unclear",
+  "statusNote": "Act No. 3 of 2021 (in force from 9 July 2021) published on the Grenada Parliament site; no page seen on this check confirms the permit is currently being issued or how to apply",
+  "minIncome": {
+   "amount": 100000,
+   "currency": "EC$",
+   "period": "year",
+   "basis": "Proof of an actual annual income of not less than EC$100,000.00 generated outside Grenada, intended to continue for the permit period",
+   "source": "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Renewable for a period not exceeding one year each time (application at least 30 days before expiry)",
+   "text": "Valid for a period not exceeding one year",
+   "source": "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf"
+  },
+  "governmentFee": {
+   "amount": 1500,
+   "currency": "USD",
+   "text": "Schedule II: application fee US$1,500/EC$4,050 individual; US$2,000/EC$5,400 individual plus up to 3 dependants; US$200/EC$540 per additional dependant; renewal US$1,400/EC$3,780 individual, US$1,900/EC$5,130 with up to 3 dependants",
+   "source": "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Application to the Chief Immigration Officer on the Schedule I form, with passport, visa proof if required, income proof, health insurance and police certificate",
+   "source": "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf"
+  },
+  "taxTreatment": {
+   "text": "No income tax payable on income generated outside Grenada in accordance with the Act; permit holder deemed non-resident for voting, citizenship and immigration purposes",
+   "source": "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Spouse, children under 18, persons under legal guardianship, parents (or spouse's parents) and grandchildren may be included; dependants may not enrol in a public educational institution",
+   "source": "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Permit holder and every dependant must be covered by a health insurance policy valid for the permit duration",
+   "source": "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf"
+  },
+  "officialSourceUrl": "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf",
+  "sources": [
+   "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf",
+   "https://www.puregrenada.com/remote-employment-act-presents-exciting-tourism-opportunities-for-grenada/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Statute text read on Grenada Parliament site. The Grenada Tourism Authority article (dated 2021-06-01) repeats the terms. Permit holders may not work for or offer services to businesses or persons in Grenada."
+ },
+ {
+  "id": "hungary-white-card",
+  "country": "Hungary",
+  "iso2": "HU",
+  "officialName": "White Card - residency for digital nomads",
+  "status": "open",
+  "statusNote": "Immigration authority factsheet describes the application procedure",
+  "minIncome": {
+   "amount": 3000,
+   "currency": "EUR",
+   "period": "month",
+   "basis": "Monthly legal income of at least 3,000 EUR net for at least 6 months before entry and throughout the stay",
+   "source": "https://oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Can be extended once for another year",
+   "text": "Maximum validity one year",
+   "source": "https://oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+  },
+  "governmentFee": {
+   "amount": 110,
+   "currency": "EUR",
+   "text": "White Card factsheet refers to the procedural-fees page without giving an amount, and the White Card is not listed separately there. Residence-permit fees on that page: EUR 110 at a consulate (permit plus entry visa); HUF 39,000 if applied in person in Hungary; HUF 26,000 via Enter Hungary; HUF 26,000 to extend. Amount shown is the consulate figure and assumes the general residence-permit fee applies (not stated explicitly for White Card)",
+   "source": "https://oif.gov.hu/factsheets/procedural-fees"
+  },
+  "processingTime": {
+   "text": "Procedural time 21 days; decision within 30 days of submission",
+   "source": "https://oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+  },
+  "whereToApply": {
+   "text": "Any Hungarian consulate, or authorised place in the country of residence; in Hungary for those legally staying",
+   "source": "https://oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+  },
+  "taxTreatment": {
+   "text": "No White Card specific tax rule stated on the OIF factsheet. The tax authority NAV states that Hungarian-resident private persons are taxed on all income, whether earned in Hungary or abroad, at a personal income tax rate of 15%; the tax liability of foreign nationals is limited to Hungarian-source income. Which status a White Card holder has depends on tax residency, which was not tested on the pages read",
+   "source": "https://nav.gov.hu/pfile/file?path=%2Fen%2Ftaxation%2Ftaxinfo%2Fa-short-summary-on-the-taxation-of-private-persons"
+  },
+  "dependants": {
+   "allowed": false,
+   "text": "Family members of White Card holders cannot get a family reunification permit (exception: child born in Hungary)",
+   "source": "https://oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Proof of comprehensive health insurance or ability to cover costs",
+   "source": "https://oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+  },
+  "officialSourceUrl": "https://oif.gov.hu/factsheets/white-card-residency-for-digital-nomads",
+  "sources": [
+   "https://oif.gov.hu/factsheets/white-card-residency-for-digital-nomads",
+   "https://oif.gov.hu/factsheets/procedural-fees",
+   "https://nav.gov.hu/pfile/file?path=%2Fen%2Ftaxation%2Ftaxinfo%2Fa-short-summary-on-the-taxation-of-private-persons"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Permit withdrawn if working for a Hungarian employer or acquiring a Hungarian company share; no other permit for other purposes during/after validity."
+ },
+ {
+  "id": "indonesia-e33g-remote-worker",
+  "country": "Indonesia",
+  "iso2": "ID",
+  "officialName": "E33G Visa Rumah Kedua Pekerja Jarak Jauh (Remote Worker Second Home Visa)",
+  "status": "open",
+  "statusNote": "Official imigrasi.go.id visa page lists E33G with fees and requirements",
+  "minIncome": {
+   "amount": 60000,
+   "currency": "USD",
+   "period": "year",
+   "basis": "Bank record showing salary/income of at least US$60,000 per year (translated)",
+   "source": "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Stay permit extendable online via evisa.imigrasi.go.id (translated)",
+   "text": "Stay of 1 year (translated); visa itself valid 90 days from issue to enter",
+   "source": "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G"
+  },
+  "governmentFee": {
+   "amount": 7000000,
+   "currency": "IDR",
+   "text": "Rp7,000,000 for a 1-year stay; components listed: limited-stay visa Rp500,000, category II verification Rp2,000,000, limited stay permit Rp3,000,000, re-entry permit Rp1,500,000 (translated)",
+   "source": "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G"
+  },
+  "processingTime": {
+   "text": "Five working days after visa payment is received (translated)",
+   "source": "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G"
+  },
+  "whereToApply": {
+   "text": "Online at evisa.imigrasi.go.id; account required; no sponsor needed (translated)",
+   "source": "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not stated on the page read",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "Not stated on the page read",
+   "source": null
+  },
+  "officialSourceUrl": "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G",
+  "sources": [
+   "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-28",
+  "notes": "Also requires an employment agreement with a company established outside Indonesia and proof of living funds: 3 months bank statements with at least USD 2,000 (translated). Passport valid 6+ months."
+ },
+ {
+  "id": "italy-digital-nomad-remote-worker-visa",
+  "country": "Italy",
+  "iso2": "IT",
+  "officialName": "Digital Nomad / Remote Worker visa (national visa)",
+  "status": "open",
+  "statusNote": "Consulate General of Italy in New York page lists the visa with an appointment process; page text refers to 2024 figures, check current amounts",
+  "minIncome": {
+   "amount": 24790,
+   "currency": "EUR",
+   "period": "year",
+   "basis": "The governing decree (Ministry of the Interior decree of 29 Feb 2024, Gazzetta Ufficiale n. 79 of 4 Apr 2024) sets a formula, not an amount: lawful annual income of not less than three times the minimum level for exemption from healthcare cost participation. The lowest national exemption level is EUR 8,263.31 (Sistema Tessera Sanitaria, sistemats1.sanita.finanze.it), so the formula gives EUR 24,789.93, rounded to 24,790 (COMPUTED). Consulate sheets print different figures: New York 24,789 (2024), Valletta 25,500 (3 x 8,500), Tunis embassy sheet of 25 May 2026 'approximately 27,000'. The 27,000 is an unexplained approximation, so ask the competent consulate which figure it applies. Tunis sheet: https://ambtunisi.esteri.it/wp-content/uploads/2026/05/scheda_informativa_visto_lavoro_nomadi_digitali-ENG-FRA.pdf",
+   "source": "https://www.lavorosi.it/wp-content/uploads/documenti/PRASSI_2024/min-int-decreto-29-febbraio-2024-nomadi-digitali-regole-di-ingresso-e-soggiorno.pdf"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Permesso di soggiorno renewable at the Questura while employment, lodging and insurance continue (as stated for 2024)",
+   "text": "Permesso for digital nomads issued for one year (as stated in 2024 on the consulate page)",
+   "source": "https://consnewyork.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visas-to-enter-italy/digital-nomad-remote-worker-visa/"
+  },
+  "governmentFee": {
+   "amount": 116,
+   "currency": "EUR",
+   "text": "Consulate General in Paris page (translated): 116 euros, cash. The fee is consulate-specific and adjusts quarterly with the exchange rate (New York page: posted on its own fees page, in USD)",
+   "source": "https://consparigi.esteri.it/it/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visto-per-nomadi-digitali-e-lavoratori-da-remoto/"
+  },
+  "processingTime": {
+   "text": "Varies by consulate: Embassy in Valletta says up to 90 days for remote workers and up to 120 days for digital nomads; Paris consulate (https://consparigi.esteri.it/it/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visto-per-nomadi-digitali-e-lavoratori-da-remoto/) says up to 30 days for remote workers and up to 120 days for digital nomads",
+   "source": "https://amblavalletta.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visto-per-nomadi-digitali-e-lavoratori-da-remoto/"
+  },
+  "whereToApply": {
+   "text": "Italian consulate in the applicant's jurisdiction (New York page: appointment); then Questura for permesso di soggiorno within 8 working days of arrival",
+   "source": "https://consnewyork.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visas-to-enter-italy/digital-nomad-remote-worker-visa/"
+  },
+  "taxTreatment": {
+   "text": "No nomad-specific tax rule on the consulate pages read. The Agenzia delle Entrate page on the impatriati regime (art. 5 D.Lgs. 209/2023, from tax year 2024, translated) taxes 50% of qualifying income up to EUR 600,000 a year, for the year of transfer plus four years, but requires a commitment to Italian tax residence for at least 4 years, no Italian residence in the previous 3 tax periods, work performed mostly in Italy and high-level qualification requirements; not shown to apply automatically to visa holders",
+   "source": "https://www.agenziaentrate.gov.it/portale/lavoratori-impatriati-209-2023/infogen-lavoratori-impatriati-209-2023-cittadini"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "After arrival, spouse and children under 18 can be sponsored for a family visa via the Questura",
+   "source": "https://consnewyork.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visas-to-enter-italy/digital-nomad-remote-worker-visa/"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Travel medical insurance min 30,000 EUR coverage, or Italian policy/affidavit to buy one before registering with the Questura",
+   "source": "https://consnewyork.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visas-to-enter-italy/digital-nomad-remote-worker-visa/"
+  },
+  "officialSourceUrl": "https://consnewyork.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visas-to-enter-italy/digital-nomad-remote-worker-visa/",
+  "sources": [
+   "https://consnewyork.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visas-to-enter-italy/digital-nomad-remote-worker-visa/",
+   "https://consparigi.esteri.it/it/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visto-per-nomadi-digitali-e-lavoratori-da-remoto/",
+   "https://amblavalletta.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visto-per-nomadi-digitali-e-lavoratori-da-remoto/",
+   "https://conslosangeles.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visa-type/digital-nomad-remote-worker-visa/",
+   "https://ambtunisi.esteri.it/wp-content/uploads/2026/05/scheda_informativa_visto_lavoro_nomadi_digitali-ENG-FRA.pdf",
+   "https://www.agenziaentrate.gov.it/portale/lavoratori-impatriati-209-2023/infogen-lavoratori-impatriati-209-2023-cittadini"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Only for highly skilled workers (art. 27-quater), 6+ months prior work experience, signed lease in applicant's name for whole visa duration. Remote workers need contract with salary at least ISTAT median. Income threshold conflict: New York, Los Angeles and Boston consulates state 24,789 EUR/year (as of 2024); the Embassy in Valletta page (undated) states triple of 8,500 EUR (i.e. 25,500 EUR); Paris page gives no figure. Left at 24,789; confirm with the competent consulate."
+ },
+ {
+  "id": "japan-digital-nomad-designated-activities",
+  "country": "Japan",
+  "iso2": "JP",
+  "officialName": "Specified visa: Designated Activities (Digital Nomad, Spouse or Child of Digital Nomad)",
+  "status": "open",
+  "statusNote": "MOFA page and Japanese embassy checklists listed in search results; direct fetch blocked (403), details from search summaries",
+  "minIncome": {
+   "amount": 10000000,
+   "currency": "JPY",
+   "period": "year",
+   "basis": "Annual income of at least 10 million yen at time of application",
+   "source": "https://www.chicago.us.emb-japan.go.jp/Consular/visa/downloadable/nomad.pdf"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 6,
+   "maxRenewalsText": "Not extendable per embassy checklist",
+   "text": "Stay up to 6 months; visa valid 3 months from issue, single entry",
+   "source": "https://www.chicago.us.emb-japan.go.jp/Consular/visa/downloadable/nomad.pdf"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Japanese embassy/consulate abroad; MOFA notes an e-visa route also exists",
+   "source": "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html"
+  },
+  "taxTreatment": {
+   "text": "Immigration Services Agency Q&A (as of July 2024): remuneration for activities in Japan is exempt from Japanese tax only if the tax convention requirements are met (in most cases stay of 183 days or less in the taxable year or any consecutive 12 months, and pay not from a Japanese-resident employer); otherwise not exempt. No residence card is issued",
+   "source": "https://www.moj.go.jp/isa/content/001422249.pdf"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Spouse and children of digital nomad included in the category",
+   "source": "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Private insurance covering injury, illness and death, with 10 million yen or more medical coverage",
+   "source": "https://www.chicago.us.emb-japan.go.jp/Consular/visa/downloadable/nomad.pdf"
+  },
+  "officialSourceUrl": "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html",
+  "sources": [
+   "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html",
+   "https://www.chicago.us.emb-japan.go.jp/Consular/visa/downloadable/nomad.pdf",
+   "https://www.moj.go.jp/isa/content/001422249.pdf"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Only for nationals of a designated list of countries/regions. Not verified directly: page returned 403."
+ },
+ {
+  "id": "kazakhstan-neo-nomad-b12-1",
+  "country": "Kazakhstan",
+  "iso2": "KZ",
+  "officialName": "Neo Nomad Visa (B12-1)",
+  "status": "open",
+  "statusNote": "Kazakh MFA embassy page (Feb 2025) describes the visa; current status not re-verified",
+  "minIncome": {
+   "amount": 3000,
+   "currency": "USD",
+   "period": "month",
+   "basis": "Bank statement for the past six months confirming a stable monthly income of at least USD 3,000",
+   "source": "https://www.gov.kz/uploads/2025/2/19/d79373170d20305395432e0d15db1acc_original.116081.pdf"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Extendable for up to an additional year within Kazakhstan",
+   "text": "Multiple-entry visa valid up to one year",
+   "source": "https://www.gov.kz/memleket/entities/mfa-riga/press/article/details/194459?lang=en"
+  },
+  "governmentFee": {
+   "amount": 117960,
+   "currency": "KZT",
+   "text": "[secondary] Consular fee of 30 MRP (117,960 KZT in 2025) per DOS Immigration, a private immigration-services site; not stated in the official instruction PDF read",
+   "source": "https://dos-immigration.kz/en/uncategorized/neo-nomad-visa-b12-1-in-kazakhstan/"
+  },
+  "processingTime": {
+   "text": "Visa issued within five working days upon submission (Kazakhstan MFA instruction document)",
+   "source": "https://www.gov.kz/uploads/2025/2/19/d79373170d20305395432e0d15db1acc_original.116081.pdf"
+  },
+  "whereToApply": {
+   "text": "Kazakh diplomatic missions/visa portal; contact embassy",
+   "source": "https://www.gov.kz/memleket/entities/mfa-riga/press/article/details/194459?lang=en"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Family and dependants can obtain a visa for the same duration; no work or religious activity",
+   "source": "https://www.gov.kz/memleket/entities/mfa-riga/press/article/details/194459?lang=en"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Medical insurance covering the entire validity period of the visa",
+   "source": "https://www.gov.kz/uploads/2025/2/19/d79373170d20305395432e0d15db1acc_original.116081.pdf"
+  },
+  "officialSourceUrl": "https://www.gov.kz/memleket/entities/mfa-riga/press/article/details/194459?lang=en",
+  "sources": [
+   "https://www.gov.kz/memleket/entities/mfa-riga/press/article/details/194459?lang=en",
+   "https://www.gov.kz/uploads/2025/2/19/d79373170d20305395432e0d15db1acc_original.116081.pdf",
+   "https://dos-immigration.kz/en/uncategorized/neo-nomad-visa-b12-1-in-kazakhstan/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Page dated 7 Feb 2025. Also lists Digital Nomad Visa B9-1 for IT professionals seeking permanent residence via Astana Hub petition (not a remote-work permit)."
+ },
+ {
+  "id": "kenya-digital-nomad-permit-class-n",
+  "country": "Kenya",
+  "iso2": "KE",
+  "officialName": "Permit Class N: Digital Nomads (KEP/N)",
+  "status": "open",
+  "statusNote": "Published on the official eFNS infopack; applications via eFNS portal",
+  "minIncome": {
+   "amount": null,
+   "currency": "USD",
+   "period": "month",
+   "basis": "3 months of bank statements/payslips proving monthly income; no minimum amount stated",
+   "source": "https://fns.immigration.go.ke/infopack/permits/classN/"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": "USD",
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": null,
+   "maxRenewalsText": "renewable",
+   "text": "Issued for one or two years, renewable",
+   "source": "https://fns.immigration.go.ke/infopack/permits/classN/"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": "USD",
+   "text": "Processing US$200 (non-refundable); issuance US$1,000 per year",
+   "source": "https://fns.immigration.go.ke/infopack/permits/classN/"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Online on the eFNS portal; or Immigration HQ (Nyayo House) / regional offices",
+   "source": "https://fns.immigration.go.ke/infopack/permits/classN/"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not mentioned",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "Not mentioned",
+   "source": null
+  },
+  "officialSourceUrl": "https://fns.immigration.go.ke/infopack/permits/classN/",
+  "sources": [
+   "https://fns.immigration.go.ke/infopack/permits/classN/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-28",
+  "notes": "For those working remotely for a foreign-registered company (employee, shareholder/representative, or self-employed with overseas clients). Requires home-country embassy no-objection letter, accommodation proof, cover letters, Form 25."
+ },
+ {
+  "id": "latvia-remote-work-long-stay-visa",
+  "country": "Latvia",
+  "iso2": "LV",
+  "officialName": "Long-stay visa for remote work",
+  "status": "open",
+  "statusNote": "PMLP page updated 11.02.2026 describes the visa",
+  "minIncome": {
+   "amount": 4213,
+   "currency": "EUR",
+   "period": "month",
+   "basis": "Not less than 2.5 times the previous year's average monthly gross salary (4,213 EUR on the page)",
+   "source": "https://www.pmlp.gov.lv/en/article/obtaining-long-stay-visa-remote-work"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": null,
+   "text": "Long-stay visa for one year",
+   "source": "https://www.pmlp.gov.lv/en/article/obtaining-long-stay-visa-remote-work"
+  },
+  "governmentFee": {
+   "amount": 90,
+   "currency": "EUR",
+   "text": "PMLP state fee for a national long-stay (D) visa is EUR 90; EUR 180 for expedited submission (less than three working days before the legal deadline). The fee page does not mention remote work specifically; the remote-work page says a state fee payment document is required",
+   "source": "https://www.pmlp.gov.lv/en/state-fees-issuance-visa-and-services-related-thereto-0"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Visa application via the Latvian PMLP / Latvian missions (page lists documents; submission channel not detailed)",
+   "source": "https://www.pmlp.gov.lv/en/article/obtaining-long-stay-visa-remote-work"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not stated on the page",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Policy valid in Latvia and Schengen states with minimum insurer liability 42,600 EUR",
+   "source": "https://www.pmlp.gov.lv/en/article/obtaining-long-stay-visa-remote-work"
+  },
+  "officialSourceUrl": "https://www.pmlp.gov.lv/en/article/obtaining-long-stay-visa-remote-work",
+  "sources": [
+   "https://www.pmlp.gov.lv/en/article/obtaining-long-stay-visa-remote-work",
+   "https://www.pmlp.gov.lv/en/state-fees-issuance-visa-and-services-related-thereto-0"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Employer or own business must be registered in an OECD member state; at least 6 months prior employment/self-employment; holders may not work in Latvia."
+ },
+ {
+  "id": "malaysia-de-rantau-nomad-pass",
+  "country": "Malaysia",
+  "iso2": "MY",
+  "officialName": "DE Rantau Nomad Pass (Professional Visit Pass)",
+  "status": "open",
+  "statusNote": "MDEC FAQ v10.0 dated 28 Aug 2026 describes applications as open",
+  "minIncome": {
+   "amount": 24000,
+   "currency": "USD",
+   "period": "year",
+   "basis": "Tech talent/profession at least USD 24,000/year; non-tech talent at least USD 60,000/year",
+   "source": "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "One renewal of 12 months; maximum 24 months total",
+   "text": "Pass valid 3 to 12 months, renewable for a further 12 months",
+   "source": "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf"
+  },
+  "governmentFee": {
+   "amount": 1080,
+   "currency": "MYR",
+   "text": "MDEC processing fee RM1,080 per applicant and RM540 per dependant (incl. 8% SST), non-refundable; separate immigration pass fee RM90 per 3 months or RM360 per year; refundable bond RM200-RM2,000 by nationality if MDEC sponsors",
+   "source": "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf"
+  },
+  "processingTime": {
+   "text": "6 to 8 weeks after complete submission; e-Pass issued within 1 week of endorsement application",
+   "source": "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf"
+  },
+  "whereToApply": {
+   "text": "Online at mdec.my/derantau; then endorsement in Malaysia (visa/VDR needed first for some nationalities)",
+   "source": "https://www.mdec.my/derantau"
+  },
+  "taxTreatment": {
+   "text": "Foreign freelancers: income from outside Malaysia taxed under s4(a) ITA 1967 subject to s7; withholding 10% (or DTA rate) for first 182 days, taxable as resident after 182 days; LHDN tax e-registration slip required",
+   "source": "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Spouse/partner, children under 18 (disabled child any age), and parents of the main holder; spouse cannot work",
+   "source": "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Valid health insurance covering Malaysia, min 3 months and throughout the pass period",
+   "source": "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf"
+  },
+  "officialSourceUrl": "https://www.mdec.my/derantau",
+  "sources": [
+   "https://www.mdec.my/derantau",
+   "https://www.mdec.my/api/media/file/DE-Rantau_Pass_FAQ_v10.pdf"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-28",
+  "notes": "Open to all nationalities except Israel; main holder 18+. Valid only in Peninsular Malaysia and Labuan. Passport validity over 14 months at application. Employer must be non-Malaysian; contract 3+ months old. Tourist-pass conversion not allowed."
+ },
+ {
+  "id": "malta-nomad-residence-permit",
+  "country": "Malta",
+  "iso2": "MT",
+  "officialName": "Nomad Residence Permit",
+  "status": "open",
+  "statusNote": "Residency Malta Agency pages describe new applications and renewals; income threshold 42,000 EUR re-confirmed 2026-09-29",
+  "minIncome": {
+   "amount": 42000,
+   "currency": "EUR",
+   "period": "year",
+   "basis": "Minimum gross yearly income 42,000 EUR (32,400 EUR for applications submitted before 1 April 2024)",
+   "source": "https://nomad.residencymalta.gov.mt/nomad-eligibility/"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": "None stated: the official eligibility page sets only a minimum gross yearly income (EUR 42,000; EUR 32,400 for applications before 1 April 2024) and no savings or asset alternative",
+   "source": "https://nomad.residencymalta.gov.mt/nomad-eligibility/"
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Renewable three times, total stay max 4 years, at the Agency's discretion",
+   "text": "Initial permit valid one year from issuance of the residency card",
+   "source": "https://nomad.residencymalta.gov.mt/new-faqs/"
+  },
+  "governmentFee": {
+   "amount": 300,
+   "currency": "EUR",
+   "text": "Verified 2026-09-29 on Residency Malta Agency: EUR 300 non-refundable application fee per person (bank transfer) plus EUR 100 residency card issuance fee per person (in person); additional visa fees if applicable. A search excerpt of the same page also lists an EUR 50 card administration fee, not seen in the fetched text",
+   "source": "https://nomad.residencymalta.gov.mt/topic/application-process/"
+  },
+  "processingTime": {
+   "text": "Verified 2026-09-29: 30 working days from the date of the receipt issued by the Finance Department for the funds; after approval in principle, proof of accommodation and health insurance within 30 working days; residence card 3 to 4 weeks after that",
+   "source": "https://nomad.residencymalta.gov.mt/topic/application-process/"
+  },
+  "whereToApply": {
+   "text": "Online application to Residency Malta Agency, then biometrics; entry visa via Identita if required",
+   "source": "https://nomad.residencymalta.gov.mt/new-faqs/"
+  },
+  "taxTreatment": {
+   "text": "Refers to S.L. 123.210 Nomad Residence Permits (Income Tax) Rules and Income Tax Acts; no summary rate given",
+   "source": "https://nomad.residencymalta.gov.mt/new-faqs/"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Spouse and minor children, plus adult children unable to cope independently, can be included in the initial application",
+   "source": "https://nomad.residencymalta.gov.mt/new-faqs/"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Health insurance covering the EU incl. Malta and UK; policy fully pre-paid for one year",
+   "source": "https://nomad.residencymalta.gov.mt/nomad-eligibility/"
+  },
+  "officialSourceUrl": "https://nomad.residencymalta.gov.mt/nomad-eligibility/",
+  "sources": [
+   "https://nomad.residencymalta.gov.mt/nomad-eligibility/",
+   "https://nomad.residencymalta.gov.mt/new-faqs/",
+   "https://nomad.residencymalta.gov.mt/topic/application-process/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Third-country nationals only; must work for foreign employer/company or foreign clients; income guaranteed for at least 5 months from application; 5 months cumulative residence in Malta needed for renewal; rental or purchase agreement of at least 12 months."
+ },
+ {
+  "id": "mauritius-premium-visa",
+  "country": "Mauritius",
+  "iso2": "MU",
+  "officialName": "Premium Visa",
+  "status": "open",
+  "statusNote": "Official EDB/Passport and Immigration Office pages describe the visa as current",
+  "minIncome": {
+   "amount": 1500,
+   "currency": "USD",
+   "period": "month",
+   "basis": "Evidence of funds: 3 months bank statements plus proof of monthly income; minimum USD 1500 per month for each adult applicant and USD 500 per month for each dependent child",
+   "source": "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": "MUR",
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Renewable",
+   "text": "Valid for a period exceeding six months up to one year and renewable; issued for 1 year to applicants abroad, day 1 starts on arrival in Mauritius",
+   "source": "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf"
+  },
+  "governmentFee": {
+   "amount": 0,
+   "currency": "MUR",
+   "text": "Issued free of charge; no processing fee",
+   "source": "https://residency.mu/live/mauritius-premium-visa/"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Online via the Economic Development Board; Passport and Immigration Office, Port Louis",
+   "source": "https://passport.govmu.org/passport/?page_id=595"
+  },
+  "taxTreatment": {
+   "text": "Income earned in Mauritius taxed on a remittance basis; money spent with foreign cards not deemed remitted",
+   "source": "https://residency.mu/live/mauritius-premium-visa/"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Spouse (marriage certificate) and children (birth certificate; consent letter if one parent only) may be included; USD 500 per month evidence of funds per dependent child",
+   "source": "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Sufficient travel and health insurance for the initial stay",
+   "source": "https://residency.mu/live/mauritius-premium-visa/"
+  },
+  "officialSourceUrl": "https://passport.govmu.org/passport/?page_id=595",
+  "sources": [
+   "https://passport.govmu.org/passport/?page_id=595",
+   "https://residency.mu/live/mauritius-premium-visa/",
+   "https://edbmauritius.org/work-live",
+   "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Open to tourists, retirees and remote-working professionals. Separate USD 50 fee from 1 Dec 2025 applies to Occupation Permit / Retired Residence Permit, not Premium Visa. The USD 1500 figure is from an EDB FAQ PDF (uploaded 2023/12, COVID-era wording); the residency.mu page does not state an amount; re-verify."
+ },
+ {
+  "id": "mexico-temporary-resident-visa-solvency",
+  "country": "Mexico",
+  "iso2": "MX",
+  "officialName": "Visa de residencia temporal (por solvencia economica; general route, not a nomad visa)",
+  "status": "open",
+  "statusNote": "General temporary-resident route via Mexican consulates, not a dedicated digital-nomad visa; SRE page allows work only if salary is paid abroad (translated). Thresholds vary by consulate and year; Las Vegas consulate 2026 sheet used.",
+  "minIncome": {
+   "amount": 4630,
+   "currency": "USD",
+   "period": "month",
+   "basis": "Bank statements with monthly income above USD 4,630 over the last six months plus employment/pension or self-employment proof; Las Vegas consulate 2026 sheet, amounts differ by consulate (translated)",
+   "source": "https://consulmex.sre.gob.mx/lasvegas/images/2026/VISAS2026/VisadeResidenteTemporal2026"
+  },
+  "savingsAlternative": {
+   "amount": 78025,
+   "currency": "USD",
+   "text": "Investments or bank statements with average monthly balance of USD 78,025 over the last twelve months; Las Vegas consulate 2026 sheet (translated)",
+   "source": "https://consulmex.sre.gob.mx/lasvegas/images/2026/VISAS2026/VisadeResidenteTemporal2026"
+  },
+  "duration": {
+   "initialMonths": null,
+   "maxRenewalsText": null,
+   "text": "Stay of more than 180 days and less than 4 years (translated)",
+   "source": "https://www.gob.mx/sre/acciones-y-programas/visa-de-residencia-temporal"
+  },
+  "governmentFee": {
+   "amount": 56,
+   "currency": "USD",
+   "text": "Visa fee USD 56 at Las Vegas consulate; other fees per Ley Federal de Derechos (translated)",
+   "source": "https://consulmex.sre.gob.mx/lasvegas/images/2026/VISAS2026/VisadeResidenteTemporal2026"
+  },
+  "processingTime": {
+   "text": "1 to 10 business days from the appointment day, Las Vegas consulate (translated)",
+   "source": "https://consulmex.sre.gob.mx/lasvegas/images/2026/VISAS2026/VisadeResidenteTemporal2026"
+  },
+  "whereToApply": {
+   "text": "Any Mexican consular representation; residence card to be obtained within 30 calendar days of entry (translated)",
+   "source": "https://www.gob.mx/sre/acciones-y-programas/visa-de-residencia-temporal"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Family (parents, minor children, spouses, partners, minor stepchildren) may qualify; Las Vegas sheet requires USD 1,498 average balance or USD 1,498 monthly income per supported relative (translated)",
+   "source": "https://consulmex.sre.gob.mx/lasvegas/images/2026/VISAS2026/VisadeResidenteTemporal2026"
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": null,
+   "source": null
+  },
+  "officialSourceUrl": "https://www.gob.mx/sre/acciones-y-programas/visa-de-residencia-temporal",
+  "sources": [
+   "https://www.gob.mx/sre/acciones-y-programas/visa-de-residencia-temporal",
+   "https://consulmex.sre.gob.mx/lasvegas/images/2026/VISAS2026/VisadeResidenteTemporal2026"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Tax and health insurance not stated on pages read. No Mexican official page offers a nomad-specific visa."
+ },
+ {
+  "id": "moldova-digital-nomad-right-of-residence",
+  "country": "Moldova",
+  "iso2": "MD",
+  "officialName": "Right of residence for the purpose of digital nomadism (Law No. 200/2010 on the regime of foreigners)",
+  "status": "open",
+  "statusNote": "General Inspectorate for Migration publishes an application form and document list for granting/extending residence for digital nomadism; Invest Moldova page (content updated July 2024 per page) describes the programme",
+  "minIncome": {
+   "amount": null,
+   "currency": "MDL",
+   "period": null,
+   "basis": "At least 18 times the average salary forecast for the current year in Moldova (three salaries per month), shown over the last 6 months; MDL figure not stated on pages read",
+   "source": "https://old.igm.gov.md/en/cererea-privind-acordarea-prelungirea-dreptului-de-sedere-in-scop-de-nomad-digital-precum-si-lista-de-acte/"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 24,
+   "maxRenewalsText": "May be extended by the same procedure",
+   "text": "Granted for the requested period, not exceeding 2 years",
+   "source": "https://invest.gov.md/en/qa-2/digital-nomads/"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": "Invest Moldova lists a fee for examining the application and a fee for issuing the permit; no amounts stated",
+   "source": "https://invest.gov.md/en/qa-2/digital-nomads/"
+  },
+  "processingTime": {
+   "text": "Not stated on the pages read (a 90-day examination period, extendable by 60 days, was quoted from a search excerpt of the IGM page and could not be confirmed on the page)",
+   "source": "https://old.igm.gov.md/en/cererea-privind-acordarea-prelungirea-dreptului-de-sedere-in-scop-de-nomad-digital-precum-si-lista-de-acte/"
+  },
+  "whereToApply": {
+   "text": "General Inspectorate for Migration (IGM), Unified Documentation Window for Foreigners; in person or via authorised representative",
+   "source": "https://invest.gov.md/en/qa-2/digital-nomads/"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Family reunification under Article 38 of the Law on the regime of foreigners if the holder has a valid permit and sufficient means; family permits cannot exceed the holder's permit validity",
+   "source": "https://invest.gov.md/en/qa-2/digital-nomads/"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Medical insurance valid in Moldova is mandatory",
+   "source": "https://old.igm.gov.md/en/cererea-privind-acordarea-prelungirea-dreptului-de-sedere-in-scop-de-nomad-digital-precum-si-lista-de-acte/"
+  },
+  "officialSourceUrl": "https://old.igm.gov.md/en/cererea-privind-acordarea-prelungirea-dreptului-de-sedere-in-scop-de-nomad-digital-precum-si-lista-de-acte/",
+  "sources": [
+   "https://old.igm.gov.md/en/cererea-privind-acordarea-prelungirea-dreptului-de-sedere-in-scop-de-nomad-digital-precum-si-lista-de-acte/",
+   "https://invest.gov.md/en/qa-2/digital-nomads/",
+   "https://consecon.gov.md/en/2025/04/29/moldova-opens-its-doors-to-digital-nomads/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Documents: application, ID, housing proof, criminal record (apostilled, translated), medical insurance, 6 months bank statements, foreign entity solvency document, employment/service contract, sworn statement of remote work. Government approved the draft law on 2025-04-29 (consecon.gov.md, Economic Council). Extension applications due 30 calendar days before expiry (15 for EU citizens)."
+ },
+ {
+  "id": "montenegro-digital-nomad-residence",
+  "country": "Montenegro",
+  "iso2": "ME",
+  "officialName": "Digital nomad temporary residence permit (Programme for attracting digital nomads)",
+  "status": "open",
+  "statusNote": "digitalnomads.gov.me (read 2026-09-29) shows an 'Apply now' call and the legal-status article describes the permit; programme text refers to a period until 2025 (gov.me article of 28 Dec 2021); no closure statement found. Keep re-check.",
+  "minIncome": {
+   "amount": null,
+   "currency": "EUR",
+   "period": null,
+   "basis": "Only 'proof of financial means of support' stated, no amount found on page",
+   "source": "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": "EUR",
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 24,
+   "maxRenewalsText": "can be extended for a maximum of two more years; new permit possible six months after expiry (translated/paraphrased)",
+   "text": "Permit valid up to two years, extendable up to two further years",
+   "source": "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": "EUR",
+   "text": null,
+   "source": null
+  },
+  "processingTime": {
+   "text": "Within 40 days of a proper application",
+   "source": "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+  },
+  "whereToApply": {
+   "text": "In person at the Ministry of Internal Affairs regional unit/branch in the municipality of residence",
+   "source": "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Close family (spouse, minor children, children up to 18) may join via family reunification",
+   "source": "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Proof of health insurance is required",
+   "source": "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+  },
+  "officialSourceUrl": "https://digitalnomads.gov.me/article/legal-status-for-nomads",
+  "sources": [
+   "https://digitalnomads.gov.me/article/legal-status-for-nomads",
+   "https://digitalnomads.gov.me/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Must show work for a foreign company or own company not registered in Montenegro; accommodation proof; clean criminal record (offences over 6 months); biometrics. Page cites average monthly costs of 800-1500 EUR (not a requirement)."
+ },
+ {
+  "id": "montserrat-remote-workers-stamp",
+  "country": "Montserrat",
+  "iso2": "MS",
+  "officialName": "Montserrat Remote Workers Stamp",
+  "status": "open",
+  "statusNote": "Programme site shows Apply Now; Tourism Authority guide describes it as current",
+  "minIncome": {
+   "amount": 70000,
+   "currency": "USD",
+   "period": "year",
+   "basis": "minimum annual income of USD$70,000, as stated",
+   "source": "https://www.visitmontserrat.com/montserrat-remote-work-the-essential-guide/"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": "USD",
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Stamp valid for 12 months, may be re-applied for",
+   "text": "12 months (1 year)",
+   "source": "https://www.gov.ms/2021/01/29/applications-are-now-open-for-the-12-month-montserrat-remote-workers-stamp/"
+  },
+  "governmentFee": {
+   "amount": 500,
+   "currency": "USD",
+   "text": "USD 500 single; USD 750 with up to 3 family members; USD 250 each additional; non-refundable",
+   "source": "https://www.visitmontserrat.com/montserrat-remote-work-the-essential-guide/"
+  },
+  "processingTime": {
+   "text": "Decision within 7 days/working days of submission",
+   "source": "https://montserratremoteworker.com/"
+  },
+  "whereToApply": {
+   "text": "Online at montserratremoteworker.com",
+   "source": "https://montserratremoteworker.com/"
+  },
+  "taxTreatment": {
+   "text": "Applicants will not be liable to pay Montserrat income tax",
+   "source": "https://www.gov.ms/2021/01/29/applications-are-now-open-for-the-12-month-montserrat-remote-workers-stamp/"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Families may be included; children may attend public schools (one-time EC$100 fee per student)",
+   "source": "https://www.visitmontserrat.com/montserrat-remote-work-the-essential-guide/"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Mandatory valid health insurance covering Montserrat (guide also mentions COVID-19 cover)",
+   "source": "https://www.visitmontserrat.com/montserrat-remote-work-the-essential-guide/"
+  },
+  "officialSourceUrl": "https://montserratremoteworker.com/",
+  "sources": [
+   "https://montserratremoteworker.com/",
+   "https://montserratremoteworker.com/the-stamp/",
+   "https://www.visitmontserrat.com/montserrat-remote-work-the-essential-guide/",
+   "https://www.gov.ms/2021/01/29/applications-are-now-open-for-the-12-month-montserrat-remote-workers-stamp/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Must be employed by foreign employer, own foreign company, or freelance mainly for foreign clients. Police record required. The gov.ms 2021 notice does not state an income threshold; the USD 70,000 figure (EC$189,000) comes from the programme site montserratremoteworker.com/the-stamp, which agrees with the tourism guide. gov.ms notice is dated 2021-01-29 and may be out of date."
+ },
+ {
+  "id": "panama-short-stay-remote-worker",
+  "country": "Panama",
+  "iso2": "PA",
+  "officialName": "Visa de Corta Estancia como Trabajador Remoto",
+  "status": "open",
+  "statusNote": "Open: Panama investment-promotion agency PROPANAMA (official) page describes the visa under Executive Decree 198 of 7 May 2021 (translated); page is undated and the Migracion requirements PDF is currently a 404 or unreadable, so re-verify",
+  "minIncome": {
+   "amount": 36000,
+   "currency": "B/.",
+   "period": "year",
+   "basis": "Minimum annual earnings B/.36,000 from foreign sources; monthly payments above USD 3,000 for employed workers (translated)",
+   "source": "https://propanama.gob.pa/visa-para-nomadas-digitales/"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 9,
+   "maxRenewalsText": "PROPANAMA page: extendable for 9 more months; a Migracion excerpt says the visa cannot exceed 9 months and is not extendable after expiry (conflict, translated)",
+   "text": "Up to 9 months (translated)",
+   "source": "https://propanama.gob.pa/visa-para-nomadas-digitales/"
+  },
+  "governmentFee": {
+   "amount": 250,
+   "currency": "USD",
+   "text": "USD 250 payment to the Servicio Nacional de Migracion (translated)",
+   "source": "https://propanama.gob.pa/visa-para-nomadas-digitales/"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Servicio Nacional de Migracion; applicant must already be in Panama; restricted nationalities must first hold an authorised visa status (translated)",
+   "source": "https://propanama.gob.pa/visa-para-nomadas-digitales/"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not verified",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Copy of international medical insurance policy covering the stay in Panama (translated)",
+   "source": "https://propanama.gob.pa/visa-para-nomadas-digitales/"
+  },
+  "officialSourceUrl": "https://propanama.gob.pa/visa-para-nomadas-digitales/",
+  "sources": [
+   "https://www.migracion.gob.pa/permisos-migratorios/",
+   "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf",
+   "https://propanama.gob.pa/visa-para-nomadas-digitales/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Dependants and tax not stated on the page read. Legal basis Executive Decree 198 of 2021 (Gaceta Oficial 29290-A) cited by PROPANAMA and search excerpts; gazette PDF could not be read."
+ },
+ {
+  "id": "philippines-digital-nomad-visa",
+  "country": "Philippines",
+  "iso2": "PH",
+  "officialName": "Digital Nomad Visa (Executive Order No. 86, s. 2025)",
+  "status": "unclear",
+  "statusNote": "EO signed 24 Apr 2025 authorising DFA to issue DNVs; implementing rules/launch not verified",
+  "minIncome": {
+   "amount": null,
+   "currency": "USD",
+   "period": null,
+   "basis": "EO requires sufficient income generated outside the Philippines; no amount verified",
+   "source": "https://www.officialgazette.gov.ph/2025/04/24/executive-order-no-86-s-2025/"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Renewable for the same duration",
+   "text": "Up to one year, multiple entry",
+   "source": "https://www.officialgazette.gov.ph/2025/04/24/executive-order-no-86-s-2025/"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Department of Foreign Affairs (Foreign Service Posts) per EO",
+   "source": "https://www.officialgazette.gov.ph/2025/04/24/executive-order-no-86-s-2025/"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not verified",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Health insurance valid for the DNV period",
+   "source": "https://www.officialgazette.gov.ph/2025/04/24/executive-order-no-86-s-2025/"
+  },
+  "officialSourceUrl": "https://www.officialgazette.gov.ph/2025/04/24/executive-order-no-86-s-2025/",
+  "sources": [
+   "https://www.officialgazette.gov.ph/2025/04/24/executive-order-no-86-s-2025/",
+   "https://pco.gov.ph/wp-content/uploads/2025/04/20250424-EO-86-FRM.pdf"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-28",
+  "notes": "EO read via search summary (direct fetch 403). Requires 18+, clean record, nationality of a country offering DNVs to Filipinos with a Philippine post, no Philippine employment."
+ },
+ {
+  "id": "portugal-d8-residence-visa",
+  "country": "Portugal",
+  "iso2": "PT",
+  "officialName": "Residency visa for a professional activity done remotely - \"digital nomads\"",
+  "status": "open",
+  "statusNote": "Listed as a current visa category on the official visa portal and on the AIMA page for Art. 88 no. 1 (Nomadas Digitais), checked 2026-09-29",
+  "minIncome": {
+   "amount": 3680,
+   "currency": "EUR",
+   "period": "month",
+   "basis": "Visa page: proof of average monthly income over the last three months of at least four times the monthly minimum guaranteed remuneration (RMMG). Computed 4 x 920 EUR = 3,680 EUR, where 920 EUR is the RMMG for 2026 (Decreto-Lei 139/2025, in force 1 Jan 2026) per DGERT page https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026; the visa page itself states only the multiple. Mainland rate; Azores and Madeira RMMG differ.",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/residency"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 24,
+   "maxRenewalsText": "Renewable for successive periods of three years (AIMA, translated)",
+   "text": "The temporary residence authorisation for remote professional activity (art. 88 no. 1 'Digital Nomads', issued in Portugal after the D8 visa) is valid two years from issue and renewable for successive three-year periods (AIMA, translated)",
+   "source": "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe"
+  },
+  "governmentFee": {
+   "amount": 110,
+   "currency": "EUR",
+   "text": "Fee for processing a national visa application is 110 EUR",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/general-information/fees"
+  },
+  "processingTime": {
+   "text": "Decision deadline for a residency visa application is 60 days",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/general-information/deadlines"
+  },
+  "whereToApply": {
+   "text": "Portuguese embassy or consulate competent for the applicant's residence (per the official where-to-lodge page)",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/general-information/where-should-you-lodge-a-visa-application"
+  },
+  "taxTreatment": {
+   "text": "The visa and AIMA pages read state no tax regime for D8 holders. The Tax Authority (AT) page on IFICI, the successor to NHR (art. 58-A Tax Benefits Statute), describes a 20% rate on category A/B income from listed qualifying activities (higher-education teaching and research, qualified posts, highly qualified professions, R&D, startups) for 10 years, for people not tax resident in Portugal in the prior 5 years and not previous NHR beneficiaries (translated). Remote work for a foreign employer is not listed as a qualifying activity on the page read, so no automatic tax break for D8 holders is shown; general IRS residence rules apply",
+   "source": "https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/questoes_frequentes/pages/faqs-01018.aspx"
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Visa portal has a separate family reunification visa for family of legal residents, granted after AIMA authorisation; not stated specifically for D8 (translated/paraphrased)",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/general-information/family-reunification"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Valid travel insurance covering medical expenses, urgent medical assistance and repatriation is in the general documents list for residency visas; not listed separately in the remote-work item (bilateral exemptions may apply)",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/residency"
+  },
+  "officialSourceUrl": "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/residency",
+  "sources": [
+   "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/residency",
+   "https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa",
+   "https://vistos.mne.gov.pt/en/national-visas/general-information/fees",
+   "https://vistos.mne.gov.pt/en/national-visas/general-information/deadlines",
+   "https://vistos.mne.gov.pt/en/national-visas/general-information/where-should-you-lodge-a-visa-application",
+   "https://vistos.mne.gov.pt/en/national-visas/general-information/family-reunification",
+   "https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026",
+   "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe",
+   "https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/questoes_frequentes/pages/faqs-01018.aspx"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Requires work contract/declaration of employer (employees) or society contract/service contract (independent), proof of fiscal residence, and income proof. Tax page-level statement absent."
+ },
+ {
+  "id": "portugal-temporary-stay-remote-work",
+  "country": "Portugal",
+  "iso2": "PT",
+  "officialName": "Temporary stay visa for the exercise of a professional activity done remotely - \"digital nomads\"",
+  "status": "open",
+  "statusNote": "Listed as a current visa category on the official visa portal, checked 2026-09-29",
+  "minIncome": {
+   "amount": 3680,
+   "currency": "EUR",
+   "period": "month",
+   "basis": "Visa page: proof of average monthly income over the last three months of at least four times the monthly minimum guaranteed remuneration (RMMG). Computed 4 x 920 EUR = 3,680 EUR, where 920 EUR is the RMMG for 2026 (Decreto-Lei 139/2025, in force 1 Jan 2026) per DGERT page https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026; the visa page itself states only the multiple. Mainland rate; Azores and Madeira RMMG differ.",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/temporary-stay"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": null,
+   "maxRenewalsText": null,
+   "text": "Temporary stay visas allow entry and stay for less than a year, multiple entries",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa"
+  },
+  "governmentFee": {
+   "amount": 110,
+   "currency": "EUR",
+   "text": "Fee for processing a national visa application is 110 EUR",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/general-information/fees"
+  },
+  "processingTime": {
+   "text": "Decision deadline for a temporary stay visa application is 30 days",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/general-information/deadlines"
+  },
+  "whereToApply": {
+   "text": "Portuguese embassy or consulate competent for the applicant's residence (per the official where-to-lodge page)",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/general-information/where-should-you-lodge-a-visa-application"
+  },
+  "taxTreatment": {
+   "text": "The visa pages read state no tax regime for this visa. The AT page on IFICI (successor to NHR) lists only specific qualifying activities and does not name remote work for a foreign employer (translated), so no automatic tax break is shown; general IRS residence rules apply",
+   "source": "https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/questoes_frequentes/pages/faqs-01018.aspx"
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not stated for this visa type on the page",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Valid travel insurance covering medical expenses, urgent medical assistance and possible repatriation is in the general documents list for temporary stay visas (bilateral exemptions may apply); not listed separately in the remote-work item",
+   "source": "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/temporary-stay"
+  },
+  "officialSourceUrl": "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/temporary-stay",
+  "sources": [
+   "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/temporary-stay",
+   "https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa",
+   "https://vistos.mne.gov.pt/en/national-visas/general-information/fees",
+   "https://vistos.mne.gov.pt/en/national-visas/general-information/deadlines",
+   "https://vistos.mne.gov.pt/en/national-visas/general-information/where-should-you-lodge-a-visa-application",
+   "https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026",
+   "https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/questoes_frequentes/pages/faqs-01018.aspx"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Employees: work contract, promise of contract or employer declaration; independent: society contract, services contract/proposal or proof of services provided; plus proof of fiscal residence."
+ },
+ {
+  "id": "romania-digital-nomad-long-stay-visa",
+  "country": "Romania",
+  "iso2": "RO",
+  "officialName": "Long-stay visa for digital nomads",
+  "status": "open",
+  "statusNote": "Listed on the MAE eVisa visa-types page checked 2026-09-28",
+  "minIncome": {
+   "amount": null,
+   "currency": "RON",
+   "period": "month",
+   "basis": "At least three times the average gross monthly salary in Romania for each of the last six months and the whole visa period (RON amount not stated on the page)",
+   "source": "https://eviza.mae.ro/TypeOfVisa"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": null,
+   "maxRenewalsText": null,
+   "text": "Not stated on the page",
+   "source": "https://eviza.mae.ro/TypeOfVisa"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": "Not stated on the page",
+   "source": null
+  },
+  "processingTime": {
+   "text": "IGI (immigration inspectorate) page on temporary right of residence: application to grant/extend right of residence processed within 30 days of registration, extendable by 15 days where further checks are needed. General residence procedure, not stated specifically for digital nomads (search excerpt of igi.mai.gov.ro)",
+   "source": "https://igi.mai.gov.ro/en/residence-permit/"
+  },
+  "whereToApply": {
+   "text": "Romanian diplomatic mission/consulate, with documents uploaded via the eVisa portal",
+   "source": "https://eviza.mae.ro/TypeOfVisa"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not stated on the page",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "Not stated on the page",
+   "source": null
+  },
+  "officialSourceUrl": "https://eviza.mae.ro/TypeOfVisa",
+  "sources": [
+   "https://eviza.mae.ro/TypeOfVisa",
+   "https://igi.mai.gov.ro/en/residence-permit/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Applicant must work remotely via ICT for a foreign-registered employer or own foreign-registered company."
+ },
+ {
+  "id": "slovenia-digital-nomad-temporary-residence",
+  "country": "Slovenia",
+  "iso2": "SI",
+  "officialName": "Temporary residence permit for digital nomads",
+  "status": "open",
+  "statusNote": "gov.si notice dated 2025-11-21 states the permit is available from 21 November 2025",
+  "minIncome": {
+   "amount": null,
+   "currency": "EUR",
+   "period": "month",
+   "basis": "Funds must equal at least twice the average monthly net salary in Slovenia, calculated on the average monthly gross salary most recently published in the Official Gazette; any lawful income source accepted (gov.si). Slovenia.si (tourist board) says this is 'twice the average annual net salary ... about EUR 1,600' (wording ambiguous); no single euro figure on gov.si, so amount left null",
+   "source": "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Cannot be extended; may re-apply six months after the previous permit expires",
+   "text": "Issued for up to one year, non-extendable",
+   "source": "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": "Fee not stated on the pages read",
+   "source": null
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Any Slovenian diplomatic mission or consular post abroad; applicants already lawfully resident in Slovenia may apply at any administrative unit in Slovenia",
+   "source": "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+  },
+  "taxTreatment": {
+   "text": "(FURS guidance, Slovenian, read via automated summary, translated) Tax residents (registered permanent residence, habitual residence or centre of interests in Slovenia, or 183+ days in a tax year) are taxed on worldwide income; non-residents only on Slovenian-source income. Holders of the digital nomad permit are not automatically residents. Where no tax treaty exists with the employer's country there is no treaty relief. Social insurance registration is required depending on employment status",
+   "source": "https://www.fu.gov.si/fileadmin/Internet/Davki_in_druge_dajatve/Podrocja/Mednarodno_obdavcenje/Opis/Obdavcitev_tujcev_z_dovoljenjem_za_zacasno_prebivanje_za_digitalnega_nomada_po_ZDoh-2_in_mednarodnih_pogodbah.doc"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Digital nomads may reunite with family members immediately, without restrictions linked to the duration of the foreigner's residence",
+   "source": "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Health insurance covering at least emergency medical services in Slovenia (Slovenia.si, tourist board, quoting the rules)",
+   "source": "https://slovenia.si/inside-view/how-to-become-a-digital-nomad-in-slovenia"
+  },
+  "officialSourceUrl": "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/",
+  "sources": [
+   "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/",
+   "https://slovenia.si/inside-view/how-to-become-a-digital-nomad-in-slovenia",
+   "https://www.fu.gov.si/fileadmin/Internet/Davki_in_druge_dajatve/Podrocja/Mednarodno_obdavcenje/Opis/Obdavcitev_tujcev_z_dovoljenjem_za_zacasno_prebivanje_za_digitalnega_nomada_po_ZDoh-2_in_mednarodnih_pogodbah.doc"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Applicant must be a non-EU/EEA national working remotely for a business abroad or self-employed abroad, not entering the Slovenian labour market. Slovenia.si is the national tourist board portal; passport valid 3 months beyond stay per that page."
+ },
+ {
+  "id": "south-africa-remote-work-visa",
+  "country": "South Africa",
+  "iso2": "ZA",
+  "officialName": "Remote Work Visa (visitor's visa category, effective 9 October 2024)",
+  "status": "open",
+  "statusNote": "DHA notice PDF effective 9 Oct 2024 and DIRCO consulate page (Toronto) live when checked; DHA PDF text could not be extracted, so DHA-side details unverified",
+  "minIncome": {
+   "amount": 650796,
+   "currency": "ZAR",
+   "period": "year",
+   "basis": "Proof of sufficient financial means: gross salary of no less than the equivalent of R650 796 per annum, shown by three months bank statements",
+   "source": "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": "ZAR",
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": null,
+   "maxRenewalsText": null,
+   "text": "DHA checklist is headed 'Visitors visa section 11(1)(b)(iv) for prescribed activity of remote work (exceeding 3 months to 3 years)'; no single initial validity stated",
+   "source": "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+  },
+  "governmentFee": {
+   "amount": 32,
+   "currency": "CAD",
+   "text": "Consulate in Toronto lists a fee of C$32 (money order/bank draft); fee varies by mission",
+   "source": "https://dirco.gov.za/toronto/nomad-visa/"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "At a South African mission abroad (Toronto page: consulate by appointment)",
+   "source": "https://dirco.gov.za/toronto/nomad-visa/"
+  },
+  "taxTreatment": {
+   "text": "Holders from treaty countries must register with SARS if present over 183 days aggregate in 12 months; those from non-treaty countries must also register (per consulate page)",
+   "source": "https://dirco.gov.za/toronto/nomad-visa/"
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not addressed on pages retrieved",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "Medical report form required; insurance requirement not stated on pages retrieved",
+   "source": "https://dirco.gov.za/toronto/nomad-visa/"
+  },
+  "officialSourceUrl": "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf",
+  "sources": [
+   "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf",
+   "https://dirco.gov.za/toronto/nomad-visa/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Holder may not take up employment in South Africa (foreign employer/own foreign business only) and may not apply for change of status in the Republic except in exceptional circumstances. DHA PDF text was extracted with pdftotext on this check; it lists: application form, purpose/duration statement, return flight ticket or reservation, financial means, passport valid 30 days beyond departure, yellow fever certificate where applicable, contract of employment signed by both applicant and foreign employer, and proof of fee payment. It does not mention dependants, insurance, police clearance, processing time or a fee amount."
+ },
+ {
+  "id": "south-korea-workation-f-1-d",
+  "country": "South Korea",
+  "iso2": "KR",
+  "officialName": "Workation (Digital Nomad) Visa F-1-D",
+  "status": "open",
+  "statusNote": "Korean consulate pages (Seattle, notice dated Jan 2026) list F-1-D as available",
+  "minIncome": {
+   "amount": 104840000,
+   "currency": "KRW",
+   "period": "year",
+   "basis": "COMPUTED. Must earn more than twice the previous year GNI per capita, after tax, as announced by the Bank of Korea. Seattle consulate: current GNI per capita is 52.42 million won, so twice is about 104.84 million won, which the same page gives as approx. USD 75,400 a year. The Los Angeles consulate notice (dated 1 Jan 2026) instead states an annual salary of at least USD 66,000, so consulate pages disagree on the figure",
+   "source": "https://www.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?seq=41"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Extendable for one additional year in Korea",
+   "text": "1-year stay, multiple entry",
+   "source": "https://www.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?seq=41"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": "Seattle consulate lists USD 45 for US citizens; varies by nationality, no general figure verified",
+   "source": "https://www.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?seq=41"
+  },
+  "processingTime": {
+   "text": "3-4 weeks at the Seattle consulate, no expedite",
+   "source": "https://www.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?seq=41"
+  },
+  "whereToApply": {
+   "text": "Korean embassy/consulate with jurisdiction (in person or mail at some posts)",
+   "source": "https://www.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?seq=41"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Family of the main applicant may apply; dependants may be under 18",
+   "source": "https://www.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?seq=41"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Medical insurance covering more than KRW 100 million (approx. USD 76,000) for treatment and repatriation for the full stay",
+   "source": "https://www.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?seq=41"
+  },
+  "officialSourceUrl": "https://www.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?seq=41",
+  "sources": [
+   "https://www.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?seq=41"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Main applicant 18+, employed by a foreign company 1+ year. No Korean employment or profit work. Read via WebFetch summary of one consulate page; official ministry (moj.go.kr / hikorea) unreachable."
+ },
+ {
+  "id": "spain-international-teleworker",
+  "country": "Spain",
+  "iso2": "ES",
+  "officialName": "Telework visa / authorisation for international teleworking (digital nomad), Law 28/2022",
+  "status": "open",
+  "statusNote": "Consular pages (Washington, New York) describe applications as accepted, checked 2026-09-28",
+  "minIncome": {
+   "amount": 2442,
+   "currency": "EUR",
+   "period": "month",
+   "basis": "200% of monthly minimum wage (SMI 1,221 EUR in 2026) for the applicant alone, per Washington consulate page; plus 75% of SMI (916 EUR) for first family member and 25% (306 EUR) for each additional",
+   "source": "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-visa.aspx"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Renewal of the residence authorisation is available in 2-year periods while the conditions that gave the right continue (Ley 14/2013 art. 74 quinquies, translated)",
+   "text": "Visa (art. 74 quater) has a maximum validity of 1 year; residence authorisation (art. 74 quinquies) has a maximum validity of 3 years and can be renewed for 2-year periods (Ley 14/2013 as consolidated on BOE, translated)",
+   "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10074"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": "No Spain-wide amount: the consular visa fee varies by consulate and nationality (Washington, 1 Jan 2026: US citizens USD 190; UK USD 963; Canada USD 1,566; Australia USD 3,020; Ethiopia USD 546; Mauritania USD 282; all other nationalities USD 106). Guadalajara consulate: MXN 1,765 in cash at the appointment. A search excerpt of an official consulate page cites EUR 73.26 for the form 790-038 fee; not read on the page itself",
+   "source": "https://www.exteriores.gob.es/Consulados/guadalajara/es/Comunicacion/Noticias/Paginas/Articulos/visado_nomada_digital.aspx"
+  },
+  "processingTime": {
+   "text": "Legal decision period stated by the New York consulate is 10 days from the day after submission, may be extended",
+   "source": "https://www.exteriores.gob.es/Consulados/nuevayork/en/ServiciosConsulares/Paginas/Consular/Visado-de-teletrabajo.aspx"
+  },
+  "whereToApply": {
+   "text": "In person at the competent Spanish consulate (appointment needed); those legally in Spain can apply for the residence permit to the UGE-CE unit of the Ministry of Inclusion, Social Security and Migration without a prior visa",
+   "source": "https://www.exteriores.gob.es/Consulados/nuevayork/en/ServiciosConsulares/Paginas/Consular/Visado-de-teletrabajo.aspx"
+  },
+  "taxTreatment": {
+   "text": "Tax agency page describes the special regime for workers relocating to Spain: eligible new tax residents may opt to be taxed under non-resident income tax rules while remaining IRPF taxpayers, for the year of arrival and the five following years; election by form 149. A search excerpt of an official tax agency page says remote workers were added to the regime from 1 Jan 2023 (seen via search excerpt of official page; the fetched page did not name remote workers)",
+   "source": "https://sede.agenciatributaria.gob.es/Sede/irpf/tengo-que-presentar-declaracion/regimen-fiscal-aplicable-trabajadores-desplazados/regimen-especial.html"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Spouse or unmarried partner, children and financially dependent adult children, and ascendants in the teleworker's care may obtain a visa",
+   "source": "https://www.exteriores.gob.es/Consulados/nuevayork/en/ServiciosConsulares/Paginas/Consular/Visado-de-teletrabajo.aspx"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Health insurance from an insurer authorised in Spain covering all risks, unless covered by Spanish public Social Security or an international convention",
+   "source": "https://www.exteriores.gob.es/Consulados/nuevayork/en/ServiciosConsulares/Paginas/Consular/Visado-de-teletrabajo.aspx"
+  },
+  "officialSourceUrl": "https://www.exteriores.gob.es/Consulados/nuevayork/en/ServiciosConsulares/Paginas/Consular/Visado-de-teletrabajo.aspx",
+  "sources": [
+   "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-visa.aspx",
+   "https://www.exteriores.gob.es/Consulados/nuevayork/en/ServiciosConsulares/Paginas/Consular/Visado-de-teletrabajo.aspx",
+   "https://sede.agenciatributaria.gob.es/Sede/irpf/tengo-que-presentar-declaracion/regimen-fiscal-aplicable-trabajadores-desplazados/regimen-especial.html",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2026-3815",
+   "https://www.exteriores.gob.es/Consulados/guadalajara/es/Comunicacion/Noticias/Paginas/Articulos/visado_nomada_digital.aspx",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10074"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Must work for companies outside Spain (max 20% of professional activity for a Spanish company if self-employed); needs degree or 3 years experience, 3 months seniority with company and company at least 1 year old. Income amounts follow 2026 SMI and change yearly."
+ },
+ {
+  "id": "sri-lanka-digital-nomad-visa",
+  "country": "Sri Lanka",
+  "iso2": "LK",
+  "officialName": "Digital Nomad Visa (DNV)",
+  "status": "open",
+  "statusNote": "Department of Immigration and Emigration category PDF live",
+  "minIncome": {
+   "amount": 2000,
+   "currency": "USD",
+   "period": "month",
+   "basis": "Minimum monthly income remittance USD 2,000 for main applicant; extra USD 500 monthly per dependant beyond 2",
+   "source": "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Renewable annually with proof of Sri Lankan tax registration",
+   "text": "12 months",
+   "source": "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+  },
+  "governmentFee": {
+   "amount": 500,
+   "currency": "USD",
+   "text": "USD 500 per year for main applicant, and same for spouse and each dependant",
+   "source": "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Department of Immigration and Emigration, Residence Visa Division (documents submitted; recommendation from Ministry of Digital Economy needed)",
+   "source": "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+  },
+  "taxTreatment": {
+   "text": "Holder must comply with Sri Lankan tax obligations; tax registration proof required for extension",
+   "source": "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Spouse and dependants included",
+   "source": "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "International health insurance covering medical care in Sri Lanka",
+   "source": "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+  },
+  "officialSourceUrl": "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf",
+  "sources": [
+   "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-28",
+  "notes": "Applicant 18+, business not registered in Sri Lanka, no local employment. Medical and security clearance required."
+ },
+ {
+  "id": "taiwan-digital-nomad-visitor-visa",
+  "country": "Taiwan",
+  "iso2": "TW",
+  "officialName": "Digital nomad visitor visa",
+  "status": "open",
+  "statusNote": "BOCA page updated 2026-08-07 describes the application process",
+  "minIncome": {
+   "amount": 40000,
+   "currency": "USD",
+   "period": "year",
+   "basis": "Age 30+: annual salary of at least US$40,000 in one of last two years; age 20-29: US$20,000; or proof of another country's digital nomad visa",
+   "source": "https://www.boca.gov.tw/cp-158-7718-c0382-2.html"
+  },
+  "savingsAlternative": {
+   "amount": 10000,
+   "currency": "USD",
+   "text": "Bank balance averaging at least US$10,000 per month over the last six months",
+   "source": "https://www.boca.gov.tw/cp-158-7718-c0382-2.html"
+  },
+  "duration": {
+   "initialMonths": null,
+   "maxRenewalsText": null,
+   "text": "Visa duration not stated on the page read",
+   "source": "https://www.boca.gov.tw/cp-158-7718-c0382-2.html"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": "Refers to a separate consular fee schedule; non-refundable",
+   "source": "https://www.boca.gov.tw/cp-158-7718-c0382-2.html"
+  },
+  "processingTime": {
+   "text": "Processing time is around two weeks; extra time if documents need correction or further evaluation (Taipei Economic and Cultural Office in the Philippines)",
+   "source": "https://www.roc-taiwan.org/ph_en/post/10559.html"
+  },
+  "whereToApply": {
+   "text": "Taiwan overseas mission; NDC reviews qualifications. Those already in Taiwan apply to BOCA or MOFA regional offices 10 working days before stay expires",
+   "source": "https://www.boca.gov.tw/cp-158-7718-c0382-2.html"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not stated on the page read",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "International health and full hospitalization insurance for the whole stay",
+   "source": "https://www.boca.gov.tw/cp-158-7718-c0382-2.html"
+  },
+  "officialSourceUrl": "https://www.boca.gov.tw/cp-158-7718-c0382-2.html",
+  "sources": [
+   "https://www.boca.gov.tw/cp-158-7718-c0382-2.html",
+   "https://www.roc-taiwan.org/ph_en/post/10559.html"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Only nationals of visa-exempt countries eligible. Requires remote work experience proof, description of intended activities, resume, contract. Interview possible."
+ },
+ {
+  "id": "thailand-dtv",
+  "country": "Thailand",
+  "iso2": "TH",
+  "officialName": "Destination Thailand Visa (DTV)",
+  "status": "open",
+  "statusNote": "Royal Thai Embassy pages checked list DTV Workcation category; the e-visa portal itself is a JavaScript app and could not be read",
+  "minIncome": {
+   "amount": null,
+   "currency": "THB",
+   "period": null,
+   "basis": "No income threshold stated on pages read; a funds test applies instead (see savingsAlternative)",
+   "source": "https://london.thaiembassy.org/en/page/destination-thailand-visa"
+  },
+  "savingsAlternative": {
+   "amount": 500000,
+   "currency": "THB",
+   "text": "Financial evidence of no less than 500,000 THB (London page: GBP 12,000 equivalent); Singapore page says bank savings balance of at least 500,000 THB for the past 3 months",
+   "source": "https://singapore.thaiembassy.org/en/page/dtv-visa-workcation"
+  },
+  "duration": {
+   "initialMonths": 60,
+   "maxRenewalsText": "One extension of a further 180 days via Thai Immigration (London and Singapore pages)",
+   "text": "Valid 5 years, multiple entry; up to 180 days per entry",
+   "source": "https://london.thaiembassy.org/en/page/destination-thailand-visa"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": null,
+   "text": "Fee is set per embassy and non-refundable: GBP 300 (London), SGD 500 (Singapore); no single THB figure verified on a primary page",
+   "source": "https://london.thaiembassy.org/en/page/destination-thailand-visa"
+  },
+  "processingTime": {
+   "text": "Kuala Lumpur embassy: approx. 1 month or more, case by case; apply at least 30 working days before travel. Singapore: apply at least 21 working days before travel",
+   "source": "https://kualalumpur.thaiembassy.org/en/publicservice/destination-thailand-visa-dtv"
+  },
+  "whereToApply": {
+   "text": "Online via the Thailand e-Visa portal (thaievisa.go.th) or the Royal Thai Embassy/Consulate as directed by the local mission",
+   "source": "https://kualalumpur.thaiembassy.org/en/publicservice/destination-thailand-visa-dtv"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Spouse and children under 20 of a DTV holder are a separate eligible category, with proof of relationship",
+   "source": "https://london.thaiembassy.org/en/page/destination-thailand-visa"
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "Insurance not mentioned on the embassy pages read",
+   "source": null
+  },
+  "officialSourceUrl": "https://www.thaievisa.go.th/visa/dtv-visa",
+  "sources": [
+   "https://www.thaievisa.go.th/visa/dtv-visa",
+   "https://kualalumpur.thaiembassy.org/en/publicservice/destination-thailand-visa-dtv",
+   "https://london.thaiembassy.org/en/page/destination-thailand-visa",
+   "https://singapore.thaiembassy.org/en/page/dtv-visa-workcation"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-28",
+  "notes": "Categories: Workcation (digital nomad/remote worker/foreign talent/freelancer), Thai soft power activities, and dependants. Remote workers show employment contract/portfolio (London). Fee and accepted bank accounts vary by embassy."
+ },
+ {
+  "id": "thailand-ltr-work-from-thailand-professional",
+  "country": "Thailand",
+  "iso2": "TH",
+  "officialName": "LTR Visa - Work-from-Thailand Professional",
+  "status": "open",
+  "statusNote": "BOI LTR site lists the category; document checklist dated 30 June 2025 read",
+  "minIncome": {
+   "amount": 80000,
+   "currency": "USD",
+   "period": "year",
+   "basis": "Average personal income of USD 80,000/year over the past 2 years (per BOI search-result summary of ltr.boi.go.th; lower band USD 40,000-80,000 needs additional documents)",
+   "source": "https://ltr.boi.go.th/"
+  },
+  "savingsAlternative": {
+   "amount": 100000,
+   "currency": "USD",
+   "text": "Insurance alternative: bank statement showing at least USD 100,000 held for 12 months (option C in the document checklist)",
+   "source": "https://ltr.boi.go.th/documents/Required-docs-Work-From-Thailand-Professional-30-06-2025.pdf"
+  },
+  "duration": {
+   "initialMonths": 60,
+   "maxRenewalsText": "Can be extended for 5 more years (10-year LTR visa in total)",
+   "text": "Permission to stay granted the first time for five years, extendable for 5 more years (BOI LTR site, Work-From-Thailand Professional)",
+   "source": "https://ltr.boi.go.th/"
+  },
+  "governmentFee": {
+   "amount": 50000,
+   "currency": "THB",
+   "text": "50,000 THB for the 10-year multiple-entry visa when collected in Thailand; when collected at a Royal Thai Embassy/Consulate or via e-visa the fee may vary and be considerably higher",
+   "source": "https://ltr.boi.go.th/"
+  },
+  "processingTime": {
+   "text": "Qualification endorsement within 20 working days; pre-approval 1-3 working days; work permit 3-5 working days",
+   "source": "https://ltr.boi.go.th/"
+  },
+  "whereToApply": {
+   "text": "Online through the BOI LTR portal (ltr.boi.go.th)",
+   "source": "https://ltr.boi.go.th/"
+  },
+  "taxTreatment": {
+   "text": "BOI LTR page states a 17% personal income tax rate for this category",
+   "source": "https://ltr.boi.go.th/"
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Up to 4 dependants in total per LTR holder; spouse and children under 20. Each dependant needs health insurance of at least USD 50,000, Thai social security, or USD 25,000 held in a bank account for at least 12 months",
+   "source": "https://ltr.boi.go.th/"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Health insurance (travel insurance not accepted) covering the whole stay with at least USD 50,000 for hospitalization and no less than 10 months remaining; alternatives are Thai social security or the USD 100,000 deposit",
+   "source": "https://ltr.boi.go.th/documents/Required-docs-Work-From-Thailand-Professional-30-06-2025.pdf"
+  },
+  "officialSourceUrl": "https://ltr.boi.go.th/",
+  "sources": [
+   "https://ltr.boi.go.th/",
+   "https://ltr.boi.go.th/documents/Required-docs-Work-From-Thailand-Professional-30-06-2025.pdf"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Employed by a foreign company; no Thai work permit granted under this category per BOI. Income figure read via search summary of the official site, not directly from page HTML."
+ },
+ {
+  "id": "turkey-digital-nomad-visa",
+  "country": "Turkey",
+  "iso2": "TR",
+  "officialName": "Digital Nomad Visa / Digital Nomad Identification Certificate (GoTürkiye)",
+  "status": "open",
+  "statusNote": "Official GoTürkiye platform describes the process; consular pages reference it",
+  "minIncome": {
+   "amount": 3000,
+   "currency": "USD",
+   "period": "month",
+   "basis": "Monthly income of USD 3,000 or USD 36,000 annually",
+   "source": "https://digitalnomads.goturkiye.com/application-requirements-for-digital-nomad-visa-and-short-term-residence"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": null,
+   "maxRenewalsText": null,
+   "text": "Duration not stated on the page read",
+   "source": "https://digitalnomads.goturkiye.com/application-requirements-for-digital-nomad-visa-and-short-term-residence"
+  },
+  "governmentFee": {
+   "amount": null,
+   "currency": "USD",
+   "text": "Non-refundable, set per consulate. Houston Consulate General 2026: single entry USD 60 (USD 185 for US citizens), multiple entry USD 180 (USD 265 for US citizens). Los Angeles Consulate General directs applicants to email for the fee",
+   "source": "https://houston-cg.mfa.gov.tr/Content/assets/consulate/images/localCache/1/ebc34ad1-dd9f-4248-9dc5-e52f24355a7c.pdf"
+  },
+  "processingTime": {
+   "text": "Los Angeles Consulate General: processing after the interview may take up to 30 days; cannot be expedited. Houston advises applying at least one month (three in summer) before travel",
+   "source": "https://losangeles-cg.mfa.gov.tr/Content/assets/consulate/images/localCache/1/72be6986-3c3a-4f24-a039-d66af1b5f1d0.pdf"
+  },
+  "whereToApply": {
+   "text": "Obtain Digital Nomad Identification Certificate on digitalnomads.goturkiye.com, then apply at a Turkish visa center/consulate",
+   "source": "https://digitalnomads.goturkiye.com/application-requirements-for-digital-nomad-visa-and-short-term-residence"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not stated on the page read",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Travel health/accident insurance valid through the stay with minimum coverage of EUR 30,000 (or USD equivalent), including transfer to nearest healthcare facility or home address and repatriation of remains",
+   "source": "https://houston-cg.mfa.gov.tr/Content/assets/consulate/images/localCache/1/ebc34ad1-dd9f-4248-9dc5-e52f24355a7c.pdf"
+  },
+  "officialSourceUrl": "https://digitalnomads.goturkiye.com/application-requirements-for-digital-nomad-visa-and-short-term-residence",
+  "sources": [
+   "https://digitalnomads.goturkiye.com/application-requirements-for-digital-nomad-visa-and-short-term-residence",
+   "https://houston-cg.mfa.gov.tr/Content/assets/consulate/images/localCache/1/ebc34ad1-dd9f-4248-9dc5-e52f24355a7c.pdf",
+   "https://losangeles-cg.mfa.gov.tr/Content/assets/consulate/images/localCache/1/72be6986-3c3a-4f24-a039-d66af1b5f1d0.pdf"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "Ages 21-55, university degree, work contract with non-Turkish company; eligible nationalities listed (36 countries incl. US, UK, EU states)."
+ },
+ {
+  "id": "uae-dubai-virtual-work-residence",
+  "country": "United Arab Emirates",
+  "iso2": "AE",
+  "officialName": "Visa Issuance (Virtual Work) - Dubai GDRFA",
+  "status": "open",
+  "statusNote": "GDRFA Dubai service page live",
+  "minIncome": {
+   "amount": 3500,
+   "currency": "USD",
+   "period": "month",
+   "basis": "Proof of monthly income of no less than USD 3,500 or foreign equivalent",
+   "source": "https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 12,
+   "maxRenewalsText": "Extendable",
+   "text": "One-year extendable residence from issuance; entry stay granted 60 days initially",
+   "source": "https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8"
+  },
+  "governmentFee": {
+   "amount": 200,
+   "currency": "AED",
+   "text": "AED 200 plus 5% VAT; additional AED 10 Knowledge, AED 10 Innovation and AED 500 inside-country fee if applicant is in the UAE",
+   "source": "https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8"
+  },
+  "processingTime": {
+   "text": "Expected completion time 48 hours",
+   "source": "https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8"
+  },
+  "whereToApply": {
+   "text": "GDRFA Dubai smart services (UAE Pass login) or Amer service centers",
+   "source": "https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": true,
+   "text": "Can sponsor family for the same period",
+   "source": "https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8"
+  },
+  "healthInsurance": {
+   "required": true,
+   "text": "Valid health insurance document required",
+   "source": "https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8"
+  },
+  "officialSourceUrl": "https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8",
+  "sources": [
+   "https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-28",
+  "notes": "Dubai emirate only. Must work remotely for an entity outside the UAE; passport valid 6+ months. Abu Dhabi scheme not verified."
+ },
+ {
+  "id": "uruguay-hoja-identidad-provisoria-nomada",
+  "country": "Uruguay",
+  "iso2": "UY",
+  "officialName": "Hoja de identidad provisoria (digital nomad variant)",
+  "status": "open",
+  "statusNote": "Official procedure page describes nomad variant",
+  "minIncome": {
+   "amount": null,
+   "currency": "UYU",
+   "period": null,
+   "basis": "No amount stated; sworn declaration only for nomads (translated)",
+   "source": "https://www.gub.uy/tramites/hoja-identidad-provisoria"
+  },
+  "savingsAlternative": {
+   "amount": null,
+   "currency": null,
+   "text": null,
+   "source": null
+  },
+  "duration": {
+   "initialMonths": 6,
+   "maxRenewalsText": "Renewable once for a further 180 days (translated)",
+   "text": "Nomads may settle for six months, renewable once for 180 days (translated); Uruguay XXI (state agency) page",
+   "source": "https://www.uruguayxxi.gub.uy/en/news/article/digital-nomads-will-be-able-to-legally-live-and-work-in-uruguay/"
+  },
+  "governmentFee": {
+   "amount": 55.71,
+   "currency": "UI",
+   "text": "55.71 Unidades Indexadas; cannot be paid from abroad (translated)",
+   "source": "https://www.gub.uy/tramites/hoja-identidad-provisoria"
+  },
+  "processingTime": {
+   "text": null,
+   "source": null
+  },
+  "whereToApply": {
+   "text": "Online portal or Dirección Nacional de Migración, Mercedes 1004, Montevideo (translated)",
+   "source": "https://www.gub.uy/tramites/hoja-identidad-provisoria"
+  },
+  "taxTreatment": {
+   "text": null,
+   "source": null
+  },
+  "dependants": {
+   "allowed": null,
+   "text": "Not addressed",
+   "source": null
+  },
+  "healthInsurance": {
+   "required": null,
+   "text": "Not addressed",
+   "source": null
+  },
+  "officialSourceUrl": "https://www.gub.uy/tramites/hoja-identidad-provisoria",
+  "sources": [
+   "https://www.gub.uy/tramites/hoja-identidad-provisoria",
+   "https://www.gub.uy/tramites/residencia-legal-temporaria",
+   "https://www.uruguayxxi.gub.uy/en/news/article/digital-nomads-will-be-able-to-legally-live-and-work-in-uruguay/"
+  ],
+  "secondarySources": [],
+  "checked": "2026-09-29",
+  "notes": "gub.uy page (re-read) lists renewal documents: Uruguayan ID, sworn declaration, apostilled criminal record for 18+, vaccination schema. Family, insurance, tax, processing time not stated."
+ }
+]

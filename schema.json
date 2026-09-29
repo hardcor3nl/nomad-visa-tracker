@@ -1,0 +1,398 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Nomad visa tracker record",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "country": {
+        "type": "string"
+      },
+      "iso2": {
+        "type": "string"
+      },
+      "officialName": {
+        "type": "string"
+      },
+      "status": {
+        "enum": [
+          "open",
+          "paused",
+          "closed",
+          "unclear",
+          "none"
+        ]
+      },
+      "statusNote": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "minIncome": {
+        "type": "object",
+        "properties": {
+          "amount": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "currency": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "period": {
+            "enum": [
+              "month",
+              "year",
+              null
+            ]
+          },
+          "basis": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          }
+        },
+        "required": [
+          "amount",
+          "currency",
+          "period",
+          "basis",
+          "source"
+        ],
+        "additionalProperties": false
+      },
+      "savingsAlternative": {
+        "type": "object",
+        "properties": {
+          "amount": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "currency": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          }
+        },
+        "required": [
+          "amount",
+          "currency",
+          "text",
+          "source"
+        ],
+        "additionalProperties": false
+      },
+      "duration": {
+        "type": "object",
+        "properties": {
+          "initialMonths": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "maxRenewalsText": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          }
+        },
+        "required": [
+          "initialMonths",
+          "maxRenewalsText",
+          "text",
+          "source"
+        ],
+        "additionalProperties": false
+      },
+      "governmentFee": {
+        "type": "object",
+        "properties": {
+          "amount": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "currency": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          }
+        },
+        "required": [
+          "amount",
+          "currency",
+          "text",
+          "source"
+        ],
+        "additionalProperties": false
+      },
+      "processingTime": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          }
+        },
+        "required": [
+          "text",
+          "source"
+        ],
+        "additionalProperties": false
+      },
+      "whereToApply": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          }
+        },
+        "required": [
+          "text",
+          "source"
+        ],
+        "additionalProperties": false
+      },
+      "taxTreatment": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          }
+        },
+        "required": [
+          "text",
+          "source"
+        ],
+        "additionalProperties": false
+      },
+      "dependants": {
+        "type": "object",
+        "properties": {
+          "allowed": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          }
+        },
+        "required": [
+          "allowed",
+          "text",
+          "source"
+        ],
+        "additionalProperties": false
+      },
+      "healthInsurance": {
+        "type": "object",
+        "properties": {
+          "required": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "text": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          }
+        },
+        "required": [
+          "required",
+          "text",
+          "source"
+        ],
+        "additionalProperties": false
+      },
+      "officialSourceUrl": {
+        "type": "string",
+        "format": "uri"
+      },
+      "sources": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "secondarySources": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "url": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uri"
+            },
+            "usedFor": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "name",
+            "url",
+            "usedFor"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "checked": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+      },
+      "notes": {
+        "type": [
+          "string",
+          "null"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "country",
+      "iso2",
+      "officialName",
+      "status",
+      "statusNote",
+      "minIncome",
+      "savingsAlternative",
+      "duration",
+      "governmentFee",
+      "processingTime",
+      "whereToApply",
+      "taxTreatment",
+      "dependants",
+      "healthInsurance",
+      "officialSourceUrl",
+      "sources",
+      "secondarySources",
+      "checked",
+      "notes"
+    ],
+    "additionalProperties": false
+  }
+}
